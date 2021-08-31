@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="39px" viewBox="0 0 38 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/trashcan-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols---Builder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation/sidebar" transform="translate(-26.000000, -547.000000)" stroke="#FFFFFF">
+            <g id="Group-82">
+                <g id="Group-81">
+                    <g id="icons/trashcan-white" transform="translate(26.000000, 547.000000)">
+                        <g id="trashcan-white">
+                            <polygon id="R" stroke-linecap="square" points="30.4375 38.296875 7 38.296875 7 9 30.4375 9"></polygon>
+                            <path d="M0.5859375,5.2734375 L36.9329588,5.2734375" id="Line" stroke-linecap="square"></path>
+                            <rect id="Rectangle" x="12.21875" y="0.5" width="13.0625" height="4.859375"></rect>
+                            <g id="Group-2" transform="translate(12.000000, 14.000000)" stroke-linecap="square">
+                                <path d="M1.3046875,0.603388346 L1.3046875,19.1204226" id="Line"></path>
+                                <path d="M6.5859375,0.540888346 L6.5859375,19.0579226" id="Line"></path>
+                                <path d="M12.0234375,0.603388346 L12.0234375,19.1204226" id="Line"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,122 @@
+html {
+    height: 100vh;
+    width: 100%;
+}
+
+.loading-sreen {
+    height: 100vh;
+    width: 100%;
+}
+body,
+html,
+.loading-sreen {
+    background: #ffffff;
+    background-image: url('/css/img/gifs/logo-loading.gif');
+    background-size: 6em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.loader-mini {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('/css/img/gifs/loading.svg');
+    background-position-y: center;
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+}
+
+@media print {
+    body,
+    html,
+    .loading-sreen {
+        background-image: none;
+    }
+}
+
+.loading {
+    background-color: darken(#ecf0f5, 3%);
+
+    &.search {
+        background-color: inherit;
+    }
+
+    &.collection {
+        height: 228px;
+        border-left: 5px solid darken(#ecf0f5, 6%) !important;
+
+        &.none {
+            color: #aab9cc;
+            padding: 3em;
+            text-align: center;
+            font-size: 2em;
+            line-height: 1em;
+            border: 0;
+            margin-top: 1rem;
+        }
+    }
+    &.section {
+        height: 60px;
+        margin-bottom: 1.5em;
+        border-left: 5px solid darken(#ecf0f5, 6%) !important;
+
+        &.none {
+            color: #aab9cc;
+            padding: 3em;
+            text-align: center;
+            font-size: 2em;
+            line-height: 1em;
+            border: 0;
+            margin-top: 1rem;
+        }
+    }
+    &.items {
+        margin-bottom: 1.5em;
+        text-align: center;
+        font-size: 1.25em;
+        padding: 8.05em 0;
+        height: auto;
+        margin-bottom: 0;
+        background: #fff;
+        text-transform: uppercase;
+        color: #d0d0d0;
+        font-size: 1.2em;
+        font-weight: 400;
+    }
+
+    &.preview {
+        background-image: url(/css/img/icons/preloader_2.gif);
+        background-repeat: no-repeat;
+        height: 400px;
+        background-color: #fff;
+        background-position: center;
+    }
+
+    &.interaction {
+        background-image: url(/css/img/icons/preloader_2.gif);
+        background-repeat: no-repeat;
+        height: 180px;
+        background-color: #fff;
+        background-position: center;
+    }
+
+    &.doclib {
+        border-bottom: 2px solid #ecf0f5;
+        height: 96px;
+
+        &.none {
+            color: #aab9cc;
+            padding: 1em;
+            text-align: center;
+            font-size: 2em;
+            line-height: 1em;
+            border: 0;
+            margin-top: 1rem;
+        }
+    }
+}
+
+.pg-viewer-wrapper .loading {
+    background-image: url('/css/img/loading/spinner-large.png') !important;
+}

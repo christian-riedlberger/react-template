@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/trashcan-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---Trashcan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Trashcan" transform="translate(-139.000000, -90.000000)">
+            <g id="icons/trashcan-grey" transform="translate(140.000000, 90.000000)">
+                <g>
+                    <polygon id="R" stroke="#969696" stroke-width="2" stroke-linecap="square" points="26 33 6 33 6 8 26 8"></polygon>
+                    <path d="M0.5,5 L31.5161248,5" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="11" y="1" width="10" height="4"></rect>
+                    <path d="M11,12.4615581 L11,28.2627606" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M16,12.4615581 L16,28.2627606" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M21,12.4615581 L21,28.2627606" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

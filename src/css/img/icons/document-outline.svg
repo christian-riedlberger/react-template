@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="49px" viewBox="0 0 40 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/document-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file-row" transform="translate(-58.000000, -24.000000)">
+            <g id="File">
+                <g id="File-info" transform="translate(19.000000, 18.000000)">
+                    <g id="icons/document-outline" transform="translate(41.000000, 6.000000)">
+                        <g>
+                            <path d="M-0.908653846,1.46238796 L24.454941,1.46238796 L36.8076923,12.0826915 L36.8076923,47.6608833 L-0.908653846,47.6608833 L-0.908653846,1.46238796 Z" id="Rectangle-756" stroke="#AEAEAE" stroke-width="2"></path>
+                            <polygon id="Rectangle-759" fill="#AEAEAE" points="23.2019231 0.69444814 37.9086538 13.0700268 23.2019231 13.0700268"></polygon>
+                            <polygon id="Shape" fill="#D0D0D0" fill-rule="nonzero" points="27.4662691 24.6776657 29.6875 24.6776657 29.6875 22.6776657 27.4662691 22.6776657 8.15873093 22.6776657 5.9375 22.6776657 5.9375 24.6776657 8.15873093 24.6776657"></polygon>
+                            <polygon id="Shape" fill="#D0D0D0" fill-rule="nonzero" points="27.4662691 31 29.6875 31 29.6875 29 27.4662691 29 8.15873093 29 5.9375 29 5.9375 31 8.15873093 31"></polygon>
+                            <polygon id="Shape" fill="#D0D0D0" fill-rule="nonzero" points="27.4662691 37 29.6875 37 29.6875 35 27.4662691 35 8.15873093 35 5.9375 35 5.9375 37 8.15873093 37"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

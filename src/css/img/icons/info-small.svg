@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/smallInfoIcon Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Forms---blank-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="elements" transform="translate(-273.822021, -587.202393)">
+            <g id="group-search-" transform="translate(0.644531, 572.106323)">
+                <g id="icons/smallInfoIcon" transform="translate(274.808594, 17.000000)">
+                    <circle id="info---icon-" stroke="#AECBEF" stroke-width="2" cx="8.5" cy="8.5" r="8.5"></circle>
+                    <text id="info---icon-" font-family=".AppleSystemUIFont" font-size="12.0951876" font-weight="normal" letter-spacing="1.23666656" fill="#717579">
+                        <tspan x="7" y="13">i</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

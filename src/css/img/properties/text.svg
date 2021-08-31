@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---Collections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collections" transform="translate(-475.000000, -503.000000)">
+            <g id="Group-23" transform="translate(457.000000, 465.000000)">
+                <g id="Group-26" transform="translate(0.000000, 25.000000)">
+                    <g id="Group-24">
+                        <g id="Group" transform="translate(18.000000, 13.000000)">
+                            <polygon id="text-field-" stroke="#64A3EE" fill="#DBECFB" stroke-linecap="round" stroke-linejoin="round" points="23.5 9.5 0.5 9.5 0.5 0.5 23.5 0.5"></polygon>
+                            <g id="cursor" transform="translate(14.000000, 2.000000)" stroke="#64A3EE" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M4.5,3.5 L4.5,9" id="Stroke-44"></path>
+                                <path d="M0.5,0.5 C2.709,0.5 4.5,2.291 4.5,4.5 C4.5,2.291 6.291,0.5 8.5,0.5" id="Stroke-46"></path>
+                                <path d="M0.5,13 C2.709,13 4.5,11.212 4.5,9 C4.5,11.212 6.291,13 8.5,13" id="Stroke-48"></path>
+                            </g>
+                            <rect id="Rectangle-691-Copy-5" fill="#ACCDF2" x="4" y="5" width="9" height="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

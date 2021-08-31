@@ -1,0 +1,35 @@
+/**
+*   GENERAL MIXES
+*/
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius !important;
+    -moz-border-radius: $radius !important;
+    -ms-border-radius: $radius !important;
+    border-radius: $radius !important;
+}
+
+@mixin transition($ease) {
+    webkit-transition: $ease;
+    -moz-transition: $ease;
+    -o-transition: $ease;
+    transition: $ease;
+}
+
+@mixin transparent($opacity) {
+    zoom: 1;
+    filter: alpha(opacity=$opacity);
+    opacity: $opacity;
+}
+
+/**
+*   ICON MIXES
+*/
+@mixin icon($img, $size) {
+    background-image: url($img);
+    background-size: $size;
+}
+@mixin fix($y, $x) {
+    position: relative;
+    top: $y;
+    left: $x;
+}

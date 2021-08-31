@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="238px" height="303px" viewBox="0 0 238 303" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.9449964%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFBF01" offset="0%"></stop>
+            <stop stop-color="#FFA404" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-3" transform="translate(-40.000000, -46.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(29.000000, 46.000000)">
+                <rect id="Rectangle-18" fill="#F1F2F1" x="57" y="0" width="192" height="248" rx="7"></rect>
+                <polygon id="Line" fill="#C2CECE" points="87.3773006 48 87.3773006 38 219.622699 38 219.622699 48"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="106.760736 30 106.760736 21 200.239264 21 200.239264 30"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.8466258 76 80.8466258 71 198.153374 71 198.153374 76"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.9386503 88 80.9386503 83 228.06135 83 228.06135 88"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.9386503 99 80.9386503 94 228.06135 94 228.06135 99"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.9386503 111 80.9386503 106 228.06135 106 228.06135 111"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.8466258 136 80.8466258 131 198.153374 131 198.153374 136"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.9386503 148 80.9386503 143 228.06135 143 228.06135 148"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.9386503 159 80.9386503 154 228.06135 154 228.06135 159"></polygon>
+                <polygon id="Line" fill="#C2CECE" points="80.9386503 171 80.9386503 166 228.06135 166 228.06135 171"></polygon>
+                <g id="Group" transform="translate(53.500000, 237.000000) rotate(-12.000000) translate(-53.500000, -237.000000) translate(13.000000, 172.000000)">
+                    <path d="M0,55 L81,55 L81,112.507469 C71.3731961,124.169156 57.8731961,130 40.5,130 C23.1268039,130 9.62680388,124.169156 0,112.507469 L0,55 Z" id="Rectangle-17" fill="url(#linearGradient-1)"></path>
+                    <path d="M37.2458789,89.9666065 C34.184467,88.8112637 32,85.7850738 32,82.2337657 C32,77.6863825 35.581722,74 40,74 C44.418278,74 48,77.6863825 48,82.2337657 C48,85.5558855 46.0883897,88.4184784 43.3355291,89.7199077 L47.0722264,107 L33.2534059,107 L37.2458789,89.9666065 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <path d="M40.1980202,50.9395691 C31.1574355,50.9395691 10,50.9395691 10,50.9395691 C10,50.9395691 10,37.4541148 10,29.8937467 C10,13.3838863 23.5201142,0 40.1980202,0 C56.8759262,0 70.3960404,13.3838863 70.3960404,29.8937467 C70.3960404,40.7809986 70.3960404,50.9395691 70.3960404,50.9395691 C75.5772853,50.9395691 45.8778584,50.9395691 40.1980202,50.9395691 Z M57.4540317,50.8684731 C57.4540317,50.8684731 57.4540317,39.3279527 57.4540317,29.8937467 C57.4540317,20.4595408 49.7282522,12.8116057 40.1980202,12.8116057 C30.6677882,12.8116057 22.9420087,20.4595408 22.9420087,29.8937467 C22.9420087,35.0116402 22.8397639,50.8684731 22.8397639,50.8684731 C22.8397639,51.1644087 61.8142778,50.8684731 57.4540317,50.8684731 Z" id="Oval-4" fill="#AFB6BC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

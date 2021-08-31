@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/people-small-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---User-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Tab-&gt;-Edit-Group" transform="translate(-879.000000, -570.000000)" stroke="#969696">
+            <g id="User-Manager" transform="translate(139.000000, 356.000000)">
+                <g id="Group-17" transform="translate(35.000000, 186.000000)">
+                    <g id="Group-26" transform="translate(62.000000, 28.000000)">
+                        <g id="Group-24">
+                            <g id="Group-31" transform="translate(644.000000, 1.000000)">
+                                <g id="icons/people-small-grey">
+                                    <g>
+                                        <path d="M19.6428571,22.5850337 L14.3877551,20.7390238 L13.9826175,19.1050799 C15.4306338,18.3739949 17.3275024,16.7032674 17.3275024,13.3381924 C17.3275024,8.3493812 18.0223518,5 12.4635569,5 C6.90476192,5 6.9047619,8.3493812 6.9047619,13.3381924 C6.9047619,16.4701101 8.82173154,18.1343401 10.4206899,18.939331 L10.0874606,20.7390238 L5,22.5850337" id="Combined-Shape" stroke-width="1.2"></path>
+                                        <circle id="Oval-209" stroke-width="1.5" cx="12.5" cy="12.5" r="12.5"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

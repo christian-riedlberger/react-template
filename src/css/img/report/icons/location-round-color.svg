@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <g id="download">
+                <g id="Group-13">
+                    <g id="Mask" fill="#00A9A1" fill-rule="nonzero">
+                        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                            <circle id="Oval" fill="#6475BC" cx="21" cy="21" r="21"></circle>
+                            <path d="M26.4712609,7.12536096 C21.3343538,5.86043063 17.370342,6.81860918 14.5792254,9.99989659 C11.7881089,13.181184 13.7134613,21.1690613 20.3552828,33.9635286 L28.5030007,47.1285801 L47.1144729,26.3547805 L26.4712609,7.12536096 Z" id="Path-3" fill="#00A1E3"></path>
+                            <path d="M21,34.9973027 C27.6666667,26.0143326 31,19.6818983 31,16 C31,10.4771525 26.5228475,6 21,6 C15.4771525,6 11,10.4771525 11,16 C11,19.6818983 14.3333333,26.0143326 21,34.9973027 Z" id="Oval-2" fill="#FFFFFF"></path>
+                            <path d="M21,20.5 C18.5147186,20.5 16.5,18.4852814 16.5,16 C16.5,13.5147186 18.5147186,11.5 21,11.5 C23.4852814,11.5 25.5,13.5147186 25.5,16 C25.5,18.4852814 23.4852814,20.5 21,20.5 Z M21,19.5 C22.9329966,19.5 24.5,17.9329966 24.5,16 C24.5,14.0670034 22.9329966,12.5 21,12.5 C19.0670034,12.5 17.5,14.0670034 17.5,16 C17.5,17.9329966 19.0670034,19.5 21,19.5 Z" id="Oval-3" fill="#FF4F25"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

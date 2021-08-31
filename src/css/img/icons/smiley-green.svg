@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>smiley-green</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---Exam-Designer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-458.000000, -681.000000)">
+            <g id="smiley-green" transform="translate(458.000000, 681.000000)">
+                <circle id="Oval-4" fill="#43C96A" cx="6.5" cy="6.5" r="6.5"></circle>
+                <path d="M2.35475182,8.29668657 C3.27849879,9.66345092 4.81879793,10.5 6.5,10.5 C8.19642908,10.5 9.74885102,9.64815309 10.6691485,8.26099495 L9.83585973,7.70815703 C9.09893844,8.81891345 7.8577134,9.5 6.5,9.5 C5.15445509,9.5 3.92296486,8.83116757 3.18326836,7.73672197 L2.35475182,8.29668657 Z" id="Oval-4" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="Group-2" transform="translate(3.000000, 4.000000)" fill="#FFFFFF">
+                    <circle id="Oval-3" cx="1" cy="1" r="1"></circle>
+                    <circle id="Oval-3" cx="6" cy="1" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

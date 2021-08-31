@@ -1,0 +1,820 @@
+{
+    "specTasksRecieved": {
+        "data": [
+            {
+                "id": "activiti$9704",
+                "url": "api/task-instances/activiti$9704",
+                "name": "gfr:stdReview",
+                "title": "Review Request",
+                "description": "spec 2",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9701",
+                "isPooled": true,
+                "isEditable": true,
+                "isReassignable": false,
+                "isClaimable": true,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": null,
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/d2743f33-04c3-4554-b602-cd671f8b6ca5",
+                    "bpm_dueDate": "2020-08-27T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 1,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": [
+                        "workspace://SpacesStore/4aeaa213-a3c8-46c9-89c1-dd03befc697e",
+                        "workspace://SpacesStore/d165f762-9ea6-48a0-b5f5-bba4833b5625",
+                        "workspace://SpacesStore/06a5c1b0-1047-4abf-843b-b160ac037e53",
+                        "workspace://SpacesStore/89cc7f09-4b93-44ac-9930-2bad785fd13c"
+                    ],
+                    "bpm_description": "spec 2",
+                    "gfr_additionalInfo": "info",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 4,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "sadf"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "High"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9635",
+                    "url": "api/workflow-instances/activiti$9635",
+                    "name": "activiti$compliantWorkflow",
+                    "title": "Compliant Workflow",
+                    "description": "Compliant Workflow",
+                    "isActive": true,
+                    "startDate": "2020-07-06T20:38:12.337Z",
+                    "priority": 1,
+                    "message": "spec 2",
+                    "endDate": null,
+                    "dueDate": "2020-08-27T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/d2743f33-04c3-4554-b602-cd671f8b6ca5",
+                    "package": "workspace://SpacesStore/d2743f33-04c3-4554-b602-cd671f8b6ca5",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$compliantWorkflow:19:8508"
+                }
+            },
+            {
+                "id": "activiti$9407",
+                "url": "api/task-instances/activiti$9407",
+                "name": "gfr:stdReview",
+                "title": "Review Request",
+                "description": "spec 1",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9404",
+                "isPooled": true,
+                "isEditable": true,
+                "isReassignable": false,
+                "isClaimable": true,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": null,
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/186c90ed-59d7-4c29-a5d8-7ef216ae944d",
+                    "bpm_dueDate": "2020-08-06T05:59:00.450Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 1,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": [
+                        "workspace://SpacesStore/55787a97-8390-4395-8921-f4c1e25bb2ab",
+                        "workspace://SpacesStore/13ce63c7-ab5b-4c05-bf85-dda86f1a1b26",
+                        "workspace://SpacesStore/21ad80c8-239e-42e0-b897-4a6188df43e2"
+                    ],
+                    "bpm_description": "spec 1",
+                    "gfr_additionalInfo": "ASDF",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 3,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "test"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "High"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9338",
+                    "url": "api/workflow-instances/activiti$9338",
+                    "name": "activiti$compliantWorkflow",
+                    "title": "Compliant Workflow",
+                    "description": "Compliant Workflow",
+                    "isActive": true,
+                    "startDate": "2020-07-06T18:33:31.849Z",
+                    "priority": 1,
+                    "message": "spec 1",
+                    "endDate": null,
+                    "dueDate": "2020-08-06T05:59:00.450Z",
+                    "context": "workspace://SpacesStore/186c90ed-59d7-4c29-a5d8-7ef216ae944d",
+                    "package": "workspace://SpacesStore/186c90ed-59d7-4c29-a5d8-7ef216ae944d",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$compliantWorkflow:19:8508"
+                }
+            }
+        ],
+        "taskRefs": [
+            {
+                "taskArray": [
+                    { "taskId": "activiti$9704" },
+                    { "taskId": "activiti$9803" },
+                    { "taskId": "activiti$9902" },
+                    { "taskId": "activiti$10001" }
+                ],
+                "progress": ["notStarted"],
+                "workflowId": "activiti$9635"
+            },
+            {
+                "taskArray": [
+                    { "taskId": "activiti$9407" },
+                    { "taskId": "activiti$9506" },
+                    { "taskId": "activiti$9605" }
+                ],
+                "progress": ["inprogress"],
+                "workflowId": "activiti$9338"
+            }
+        ]
+    },
+    "certTasksIssued": {
+        "data": [
+            {
+                "id": "activiti$start9162",
+                "url": "api/task-instances/activiti$start9162",
+                "name": "cert:submitCertificationTask",
+                "title": "cert:submitCertificationTask",
+                "description": "cert:submitCertificationTask",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9162",
+                "isPooled": false,
+                "isEditable": true,
+                "isReassignable": true,
+                "isClaimable": false,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": {
+                    "userName": "test_user_cypress_creator",
+                    "firstName": "Cy",
+                    "lastName": "Creator"
+                },
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 2,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert1",
+                    "gfr_additionalInfo": null,
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": null
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "Medium"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9162",
+                    "url": "api/workflow-instances/activiti$9162",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:40:43.669Z",
+                    "priority": 1,
+                    "message": "cert1",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            },
+            {
+                "id": "activiti$start9248",
+                "url": "api/task-instances/activiti$start9248",
+                "name": "cert:submitCertificationTask",
+                "title": "cert:submitCertificationTask",
+                "description": "cert:submitCertificationTask",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9248",
+                "isPooled": false,
+                "isEditable": true,
+                "isReassignable": true,
+                "isClaimable": false,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": {
+                    "userName": "test_user_cypress_creator",
+                    "firstName": "Cy",
+                    "lastName": "Creator"
+                },
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 2,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert 2",
+                    "gfr_additionalInfo": "asdf",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "test description"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "Medium"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9248",
+                    "url": "api/workflow-instances/activiti$9248",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:42:22.780Z",
+                    "priority": 1,
+                    "message": "cert 2",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            }
+        ],
+        "taskRefs": []
+    },
+    "certTasksIssuedWithoutRefs": {
+        "data": [
+            {
+                "id": "activiti$start9162",
+                "url": "api/task-instances/activiti$start9162",
+                "name": "cert:submitCertificationTask",
+                "title": "cert:submitCertificationTask",
+                "description": "cert:submitCertificationTask",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9162",
+                "isPooled": false,
+                "isEditable": true,
+                "isReassignable": true,
+                "isClaimable": false,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": {
+                    "userName": "test_user_cypress_creator",
+                    "firstName": "Cy",
+                    "lastName": "Creator"
+                },
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 2,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert1",
+                    "gfr_additionalInfo": null,
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": null
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "Medium"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9162",
+                    "url": "api/workflow-instances/activiti$9162",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:40:43.669Z",
+                    "priority": 1,
+                    "message": "cert1",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            },
+            {
+                "id": "activiti$start9248",
+                "url": "api/task-instances/activiti$start9248",
+                "name": "cert:submitCertificationTask",
+                "title": "cert:submitCertificationTask",
+                "description": "cert:submitCertificationTask",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9248",
+                "isPooled": false,
+                "isEditable": true,
+                "isReassignable": true,
+                "isClaimable": false,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": {
+                    "userName": "test_user_cypress_creator",
+                    "firstName": "Cy",
+                    "lastName": "Creator"
+                },
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 2,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert 2",
+                    "gfr_additionalInfo": "asdf",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "test description"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "Medium"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9248",
+                    "url": "api/workflow-instances/activiti$9248",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:42:22.780Z",
+                    "priority": 1,
+                    "message": "cert 2",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            }
+        ]
+    },
+    "certTasksRecieved": {
+        "data": [
+            {
+                "id": "activiti$9308",
+                "url": "api/task-instances/activiti$9308",
+                "name": "cert:supplierCertificationIntake",
+                "title": "Supplier to provide certificate",
+                "description": "cert 2",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9248",
+                "isPooled": true,
+                "isEditable": true,
+                "isReassignable": false,
+                "isClaimable": true,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": null,
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 1,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert 2",
+                    "gfr_additionalInfo": "asdf",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "test description"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "High"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9248",
+                    "url": "api/workflow-instances/activiti$9248",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:42:22.780Z",
+                    "priority": 1,
+                    "message": "cert 2",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            },
+            {
+                "id": "activiti$9218",
+                "url": "api/task-instances/activiti$9218",
+                "name": "cert:supplierCertificationIntake",
+                "title": "Supplier to provide certificate",
+                "description": "cert1",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9162",
+                "isPooled": true,
+                "isEditable": true,
+                "isReassignable": false,
+                "isClaimable": true,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": null,
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 1,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert1",
+                    "gfr_additionalInfo": null,
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": null
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "High"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9162",
+                    "url": "api/workflow-instances/activiti$9162",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:40:43.669Z",
+                    "priority": 1,
+                    "message": "cert1",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            }
+        ],
+        "taskRefs": []
+    },
+    "certTasksRecievedWithoutRefs": {
+        "data": [
+            {
+                "id": "activiti$9308",
+                "url": "api/task-instances/activiti$9308",
+                "name": "cert:supplierCertificationIntake",
+                "title": "Supplier to provide certificate",
+                "description": "cert 2",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9248",
+                "isPooled": true,
+                "isEditable": true,
+                "isReassignable": false,
+                "isClaimable": true,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": null,
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 1,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert 2",
+                    "gfr_additionalInfo": "asdf",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "test description"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "High"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9248",
+                    "url": "api/workflow-instances/activiti$9248",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:42:22.780Z",
+                    "priority": 1,
+                    "message": "cert 2",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "package": "workspace://SpacesStore/6b635988-eccc-45ad-8107-ca92e5c81295",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            },
+            {
+                "id": "activiti$9218",
+                "url": "api/task-instances/activiti$9218",
+                "name": "cert:supplierCertificationIntake",
+                "title": "Supplier to provide certificate",
+                "description": "cert1",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9162",
+                "isPooled": true,
+                "isEditable": true,
+                "isReassignable": false,
+                "isClaimable": true,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": null,
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "bpm_dueDate": "2020-08-26T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 1,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": null,
+                    "bpm_description": "cert1",
+                    "gfr_additionalInfo": null,
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 1,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": null
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "High"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9162",
+                    "url": "api/workflow-instances/activiti$9162",
+                    "name": "activiti$certificationRequest",
+                    "title": "Certification Request",
+                    "description": "Certification Request",
+                    "isActive": true,
+                    "startDate": "2020-07-06T17:40:43.669Z",
+                    "priority": 1,
+                    "message": "cert1",
+                    "endDate": null,
+                    "dueDate": "2020-08-26T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "package": "workspace://SpacesStore/d6fbe39a-0e54-4612-b44e-e19d55edbead",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$certificationRequest:19:8516"
+                }
+            }
+        ]
+    },
+    "specTasksIssued": {
+        "data": [
+            {
+                "id": "activiti$start9635",
+                "url": "api/task-instances/activiti$start9635",
+                "name": "gfr:submitReviewTask",
+                "title": "gfr:submitReviewTask",
+                "description": "gfr:submitReviewTask",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9635",
+                "isPooled": false,
+                "isEditable": true,
+                "isReassignable": true,
+                "isClaimable": false,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": {
+                    "userName": "test_user_cypress_creator",
+                    "firstName": "Cy",
+                    "lastName": "Creator"
+                },
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/d2743f33-04c3-4554-b602-cd671f8b6ca5",
+                    "bpm_dueDate": "2020-08-27T05:59:00.000Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 2,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": [
+                        "workspace://SpacesStore/4aeaa213-a3c8-46c9-89c1-dd03befc697e",
+                        "workspace://SpacesStore/d165f762-9ea6-48a0-b5f5-bba4833b5625",
+                        "workspace://SpacesStore/06a5c1b0-1047-4abf-843b-b160ac037e53",
+                        "workspace://SpacesStore/89cc7f09-4b93-44ac-9930-2bad785fd13c"
+                    ],
+                    "bpm_description": "spec 2",
+                    "gfr_additionalInfo": "info",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 4,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "sadf"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "Medium"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9635",
+                    "url": "api/workflow-instances/activiti$9635",
+                    "name": "activiti$compliantWorkflow",
+                    "title": "Compliant Workflow",
+                    "description": "Compliant Workflow",
+                    "isActive": true,
+                    "startDate": "2020-07-06T20:38:12.337Z",
+                    "priority": 1,
+                    "message": "spec 2",
+                    "endDate": null,
+                    "dueDate": "2020-08-27T05:59:00.000Z",
+                    "context": "workspace://SpacesStore/d2743f33-04c3-4554-b602-cd671f8b6ca5",
+                    "package": "workspace://SpacesStore/d2743f33-04c3-4554-b602-cd671f8b6ca5",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$compliantWorkflow:19:8508"
+                }
+            },
+            {
+                "id": "activiti$start9338",
+                "url": "api/task-instances/activiti$start9338",
+                "name": "gfr:submitReviewTask",
+                "title": "gfr:submitReviewTask",
+                "description": "gfr:submitReviewTask",
+                "state": "IN_PROGRESS",
+                "path": "api/workflow-paths/activiti$9338",
+                "isPooled": false,
+                "isEditable": true,
+                "isReassignable": true,
+                "isClaimable": false,
+                "isReleasable": false,
+                "outcome": null,
+                "owner": {
+                    "userName": "test_user_cypress_creator",
+                    "firstName": "Cy",
+                    "lastName": "Creator"
+                },
+                "creator": null,
+                "properties": {
+                    "bpm_package": "workspace://SpacesStore/186c90ed-59d7-4c29-a5d8-7ef216ae944d",
+                    "bpm_dueDate": "2020-08-06T05:59:00.450Z",
+                    "gfr_issuingEntity": "CREATORCYPRESSTEST",
+                    "bpm_priority": 2,
+                    "tfd_collection": null,
+                    "gfr_status": "pending",
+                    "gfr_entity": "RECEIVERCYPRESSTEST",
+                    "gfr_collaborators": "[]",
+                    "gfr_packageRefs": [
+                        "workspace://SpacesStore/55787a97-8390-4395-8921-f4c1e25bb2ab",
+                        "workspace://SpacesStore/13ce63c7-ab5b-4c05-bf85-dda86f1a1b26",
+                        "workspace://SpacesStore/21ad80c8-239e-42e0-b897-4a6188df43e2"
+                    ],
+                    "bpm_description": "spec 1",
+                    "gfr_additionalInfo": "ASDF",
+                    "bpm_status": "Not Yet Started",
+                    "gfr_guidCount": 3,
+                    "gfr_progress": "notStarted",
+                    "gfr_details": "test"
+                },
+                "propertyLabels": {
+                    "bpm_status": "Not Yet Started",
+                    "bpm_priority": "Medium"
+                },
+                "workflowInstance": {
+                    "id": "activiti$9338",
+                    "url": "api/workflow-instances/activiti$9338",
+                    "name": "activiti$compliantWorkflow",
+                    "title": "Compliant Workflow",
+                    "description": "Compliant Workflow",
+                    "isActive": true,
+                    "startDate": "2020-07-06T18:33:31.849Z",
+                    "priority": 1,
+                    "message": "spec 1",
+                    "endDate": null,
+                    "dueDate": "2020-08-06T05:59:00.450Z",
+                    "context": "workspace://SpacesStore/186c90ed-59d7-4c29-a5d8-7ef216ae944d",
+                    "package": "workspace://SpacesStore/186c90ed-59d7-4c29-a5d8-7ef216ae944d",
+                    "initiator": {
+                        "userName": "test_user_cypress_creator",
+                        "firstName": "Cy",
+                        "lastName": "Creator"
+                    },
+                    "definitionUrl": "api/workflow-definitions/activiti$compliantWorkflow:19:8508"
+                }
+            }
+        ],
+        "taskRefs": [
+            {
+                "taskArray": [
+                    { "taskId": "activiti$start9635" },
+                    { "taskId": "activiti$start9734" },
+                    { "taskId": "activiti$start9833" },
+                    { "taskId": "activiti$start9932" }
+                ],
+                "progress": ["notStarted"],
+                "workflowId": "activiti$9635"
+            },
+            {
+                "taskArray": [
+                    { "taskId": "activiti$start9338" },
+                    { "taskId": "activiti$start9437" },
+                    { "taskId": "activiti$start9536" }
+                ],
+                "progress": ["inprogress"],
+                "workflowId": "activiti$9338"
+            }
+        ]
+    }
+}

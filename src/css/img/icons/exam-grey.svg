@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="35px" viewBox="0 0 34 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 84</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.794872,7.84615385 L25.2832903,7.84615385 L25.2832903,3.92307692 L25.2832903,0 L9.59098264,0 L9.59098264,7.84615385 L13.0769233,7.84615385 L13.0769233,8.28205128 L13.0769231,10.025641 L2.06297842,26.546558 C-1.00736595,31.1520746 0.987615518,34.8717949 6.50755486,34.8717949 L27.0565474,34.8717949 C32.5775484,34.8717949 34.710158,31.0591076 31.8222356,26.3559195 L21.794872,10.025641 L21.794872,7.84615385 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33.5163432" height="34.8717949" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Exam-Compiler" transform="translate(-143.000000, -93.000000)">
+            <g id="Group-84" transform="translate(143.000000, 93.000000)">
+                <use id="Combined-Shape" stroke="#969696" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                <ellipse id="Oval" stroke="#A9A9A9" stroke-width="2" cx="21.110513" cy="26.3412822" rx="3.67461552" ry="3.67461552"></ellipse>
+                <ellipse id="Oval" stroke="#A9A9A9" cx="11.5207692" cy="23.7258974" rx="1.93102557" ry="1.93102557"></ellipse>
+                <path d="M8.84,18.53 L25.84,18.53" id="Line" stroke="#969696" stroke-width="1.25" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

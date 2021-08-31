@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/snowflake</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---Collections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Items" transform="translate(-655.000000, -718.000000)" stroke-width="1.5" stroke="#FFFFFF">
+            <g id="Group-17" transform="translate(605.000000, 619.000000)">
+                <g id="Group-8" transform="translate(50.000000, 100.000000)">
+                    <g id="icons/snowflake">
+                        <path d="M10.5,0.611111111 L10.5,10.3888889 M19.4970417,5.80555556 L11.0292377,10.6944444 M19.4970417,16.1944444 L11.0292377,11.3055556 M10.5,21.3888889 L10.5,11.6111111 M1.50295831,16.1944444 L9.97076225,11.3055556 M1.50295831,5.80555556 L9.97076225,10.6944444" id="Line-2" stroke-linecap="square"></path>
+                        <path d="M7.25551398,1.73050295 L10.4499512,4.86999512 L13.5504902,1.73050295 M16.856878,3.63944683 L15.7352166,7.97565666 L20.0043661,9.09105613 M20.0043661,12.9089439 L15.6882675,14.1056615 L16.856878,18.3605532 M13.5504902,20.269497 L10.356053,17.1300049 L7.25551398,20.269497 M3.94912621,18.3605532 L5.07078758,14.0243433 L0.80163811,12.9089439 M0.80163811,9.09105613 L5.11773667,7.89433845 L3.94912621,3.63944683" id="Path-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

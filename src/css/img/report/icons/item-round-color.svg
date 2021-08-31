@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+    </defs>
+    <g id="Dashboard-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-128.000000, -409.000000)">
+            <g id="Group-7" transform="translate(99.000000, 257.000000)">
+                <g id="Group-14" transform="translate(29.000000, 152.000000)">
+                    <g id="Group-13">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#00A9A1" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" fill-rule="nonzero">
+                            <circle id="Oval" fill="#6475BC" cx="21" cy="21" r="21"></circle>
+                            <polygon id="Path-3" fill="#00A1E3" points="31.706218 11 11 34.6007451 23.6221316 48.05373 47.1144729 26.3547805"></polygon>
+                            <polygon id="Rectangle" fill="#FFFFFF" points="11 7 28.0345918 7 32 11.0278657 32 35 11 35"></polygon>
+                            <polygon id="Rectangle-4" fill="#D8D8D8" points="28 7 32 11 28 11"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-12" transform="translate(14.000000, 13.000000)" fill-rule="nonzero">
+                        <rect id="Rectangle-3" fill="#FF4F25" x="0" y="0" width="7" height="1.5"></rect>
+                        <g id="Group-8" transform="translate(0.000000, 4.000000)" fill="#C6C6C6">
+                            <rect id="Rectangle-3" x="0" y="0" width="15" height="1.5"></rect>
+                            <rect id="Rectangle-3" x="0" y="3" width="15" height="1.5"></rect>
+                            <rect id="Rectangle-3" x="0" y="6" width="15" height="1.5"></rect>
+                            <rect id="Rectangle-3" x="0" y="9" width="15" height="1.5"></rect>
+                            <rect id="Rectangle-3" x="0" y="12" width="15" height="1.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

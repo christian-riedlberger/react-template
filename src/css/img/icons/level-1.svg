@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="21px" viewBox="0 0 42 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>level-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="38.2413569" height="19.0366022"></rect>
+        <polygon id="path-3" points="5.96760028 0.122029501 26.6715196 9.88438959 0.121787761 14.8875991"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(-2.000000, -4.000000)">
+            <g id="level-1" transform="translate(0.000000, 4.637121)">
+                <g id="Round" transform="translate(5.679331, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" id="Group">
+                        <g transform="translate(-7.063690, 2.196531)">
+                            <g transform="translate(9.255870, 0.000000)">
+                                <path d="M16.806711,33.5581128 C26.0215397,33.5581128 33.4916342,26.0731906 33.4916342,16.8400711 C33.4916342,7.6069517 26.0215397,0.122029501 16.806711,0.122029501 C7.59188234,0.122029501 0.121787761,7.6069517 0.121787761,16.8400711 C0.121787761,26.0731906 7.59188234,33.5581128 16.806711,33.5581128 L16.806711,33.5581128 Z M16.806711,32.8259358 C7.99545148,32.8259358 0.852514326,25.6688204 0.852514326,16.8400711 C0.852514326,8.01132189 7.99545148,0.854206507 16.806711,0.854206507 C25.6179705,0.854206507 32.7609077,8.01132189 32.7609077,16.8400711 C32.7609077,25.6688204 25.6179705,32.8259358 16.806711,32.8259358 L16.806711,32.8259358 Z" id="Oval-1" fill="#D1D2D4"></path>
+                                <ellipse id="Oval-1" fill="#D1D2D4" cx="16.806711" cy="16.8400711" rx="14.1273803" ry="14.1554221"></ellipse>
+                                <ellipse id="Oval-1" fill="#FFFFFF" cx="16.806711" cy="16.8400711" rx="7.30726565" ry="7.32177006"></ellipse>
+                            </g>
+                            <g transform="translate(0.000000, 7.077711)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(14.649949, 18.389571) rotate(-41.000000) translate(-14.649949, -18.389571) translate(4.149949, 8.889571)">
+                    <polygon id="Line" fill="#FFFFFF" points="1.50456445 3.96983105 16.6734137 17.1303164 18.054456 18.3285079 20.4460918 15.5609408 19.0650495 14.3627493 3.89620026 1.20226397 2.51515799 0.00407245333 0.123522179 2.77163953"></polygon>
+                    <ellipse id="Oval-4" fill="#999999" cx="18.0245886" cy="15.8638351" rx="1.94860417" ry="1.95247202"></ellipse>
+                    <polygon id="Line" fill="#979797" points="2.22205519 3.13956093 17.3909044 16.3000463 17.9433213 16.7793229 18.8999757 15.672296 18.3475588 15.1930194 3.17870951 2.0325341 2.62629261 1.55325749 1.66963828 2.66028432"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

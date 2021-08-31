@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>warning-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="warning-icon" transform="translate(1.000000, 0.000000)">
+            <path d="M11.4411619,1.3358389 L21.1402462,17.208397 L21.1402462,17.208397 C21.4065583,17.6442169 21.2691451,18.2134074 20.8333251,18.4797195 C20.6881329,18.5684407 20.5212779,18.6153846 20.3511244,18.6153846 L1.59264667,18.6153846 L1.59264667,18.6153846 C1.08190096,18.6153846 0.66785976,18.2013434 0.66785976,17.6905977 C0.66785976,17.5298183 0.709776627,17.3718167 0.789474959,17.2321808 L9.84886832,1.35962277 L9.84886832,1.35962277 C10.102045,0.916043283 10.6668774,0.761691286 11.1104569,1.01486793 C11.2460114,1.09223679 11.3597789,1.20265564 11.4411619,1.3358389 Z" id="Triangle" stroke="#CEC95E" stroke-width="1.84957381"></path>
+            <polygon id="Path-2" fill="#CEC95E" points="9.77777778 6.51851852 11.7916594 6.51851852 11.5188689 12.7844926 10.0589318 12.7844926"></polygon>
+            <circle id="Oval" fill="#CEC95E" cx="10.7962963" cy="14.8703704" r="1.01851852"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="185px" height="185px" viewBox="0 0 185 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="79.2857143" cy="79.2857143" r="79.2857143"></circle>
+    </defs>
+    <g id="ExamBuilder---User-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Tab-&gt;-Edit-/-Create" transform="translate(-196.000000, -501.000000)">
+            <g id="Group-2" transform="translate(196.000000, 501.000000)">
+                <circle id="Oval" fill="#F9F9F9" cx="92.5" cy="92.5" r="92.5"></circle>
+                <g id="Combined-Shape" transform="translate(13.214286, 13.214286)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#A7E5F3" xlink:href="#path-1"></use>
+                    <path d="M124.687964,131.369331 L92.1069389,119.924283 L89.5951326,109.79402 C98.572666,105.261377 110.333032,94.90306 110.333032,74.0399844 C110.333032,43.1099319 114.641018,22.3441558 80.1771323,22.3441558 C45.7132467,22.3441558 45.7132466,43.1099319 45.7132466,74.0399844 C45.7132466,93.4575117 57.5982366,103.775545 67.5115937,108.766396 L65.4456106,119.924283 L33.9039431,131.369331 L18.0194805,165.66533 L140.763055,165.66533 L124.687964,131.369331 Z" fill="#BBECF7" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

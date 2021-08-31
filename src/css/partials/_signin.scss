@@ -1,0 +1,225 @@
+#signin p {
+    font-weight: 300 !important;
+}
+
+#signin {
+    .signin-form {
+        .form-wrapper {
+            .visibility-check {
+                float: right;
+                color: #32b332;
+                -webkit-user-select: none; /* Chrome all / Safari all */
+                -moz-user-select: none; /* Firefox all */
+                -ms-user-select: none; /* IE 10+ */
+                user-select: none; /* Likely future */
+
+                i {
+                    margin-right: 0.75em;
+                }
+            }
+        }
+
+        p.login-info {
+            text-align: center;
+            color: #ececec;
+            padding-top: 3em;
+            font-size: 12px;
+
+            a {
+                color: #d8d8d8;
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .terms-container {
+        padding: 3em 9em;
+        font-size: 130%;
+        background: white;
+        height: 100%;
+        overflow: auto;
+        padding-bottom: 5em;
+
+        h1,
+        h2,
+        h3 {
+            color: #353e42;
+        }
+
+        a {
+            color: #3ec6e5;
+            border-bottom: 1px solid #3ec6e5;
+            padding-bottom: 6px;
+            margin-bottom: 1em;
+            display: inline-block;
+            text-decoration: none;
+        }
+
+        p > a {
+            padding-bottom: 0;
+            margin: 0;
+            border-bottom: 0;
+        }
+    }
+}
+
+#signin {
+    height: 100%;
+    width: 100%;
+
+    .signin-form {
+        width: 560px;
+        position: absolute;
+        padding: 5em;
+        background: #353e43;
+        background: rgba(53, 62, 67, 1);
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: 99;
+
+        .logo {
+            text-align: center;
+            padding-bottom: 2em;
+        }
+
+        .form-wrapper {
+            position: relative;
+            height: 100%;
+            width: 100%;
+
+            form {
+                position: absolute;
+                bottom: 0;
+                width: 100%;
+
+                .alert {
+                    height: 122px;
+                    padding-top: 3em;
+                    font-weight: 400;
+
+                    div {
+                        background: #ec6248;
+                        color: #fff;
+                        padding: 1em;
+                        font-size: 1.1em;
+                        font-weight: 400;
+                    }
+                }
+
+                label {
+                    color: #ccc !important;
+                }
+
+                .field {
+                    margin-bottom: 1.5em;
+
+                    input[type='text'],
+                    input[type='password'] {
+                        background: #fff;
+                        border: 0;
+                        font-size: 1.3em;
+                        color: #333;
+
+                        &::-webkit-input-placeholder {
+                            color: darken(#fff, 20%);
+                        }
+                        &::-moz-placeholder {
+                            color: darken(#fff, 20%);
+                        }
+                        &:-ms-input-placeholder {
+                            color: darken(#fff, 20%);
+                        }
+                        &:-moz-placeholder {
+                            color: darken(#fff, 20%);
+                        }
+                        &::selection {
+                            background: #e6b01a;
+                            color: #fff;
+                        }
+                        &::-moz-selection {
+                            background: #e6b01a;
+                            color: #fff;
+                        }
+                    }
+                }
+
+                .ui.primary.button {
+                    border: 0;
+                    font-size: 1.2em;
+                    width: 100%;
+                    text-transform: none;
+                    padding: 1em;
+                    font-weight: 600;
+                    margin-bottom: 2em;
+                    margin-top: 1.5em;
+                }
+
+                .remember {
+                    text-align: center;
+
+                    .ui.checkbox label,
+                    .ui.checkbox + label {
+                        color: #fff;
+                        font-size: 1.1em;
+                    }
+                    .ui.checkbox .box:before,
+                    .ui.checkbox label:before {
+                        background: none;
+                        border-width: 2px;
+                    }
+
+                    .ui.checkbox input:checked ~ .box:before,
+                    .ui.checkbox input:checked ~ label:before {
+                        background: #fff !important;
+                    }
+
+                    .ui.checkbox input:checked ~ .box:after,
+                    .ui.checkbox input:checked ~ label:after {
+                        color: rgb(53, 62, 67);
+                    }
+                }
+            }
+        }
+    }
+
+    #id {
+        min-height: 100%;
+    }
+
+    .signin-jumbo {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding-left: 558px;
+        overflow: hidden;
+        background-color: #363e42;
+
+        div {
+            width: 100%;
+            height: 100%;
+
+            &.background {
+                background-color: #363e42;
+                height: 125%;
+                width: 100%;
+
+                overflow: inherit !important;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center top;
+            }
+
+            &.pic-1,
+            &.pic-2,
+            &.pic-3,
+            &.pic-4,
+            &.pic-5,
+            &.pic-6 {
+                background-image: url(/css/img/brand/login-background.jpg);
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/COMPASS ICON</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="10.4870477" cy="10.3037831" rx="10.4870477" ry="10.2110728"></ellipse>
+        <filter x="-2.4%" y="-2.4%" width="104.8%" height="109.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.749019608   0 0 0 0 0.839215686   0 0 0 0 0.937254902  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-7.2%" y="-7.3%" width="114.3%" height="119.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.679545969 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M4.99012967,15.1890926 C4.87683415,15.0757971 8.43514458,8.80989076 8.63878748,8.60624786 C8.84243038,8.40260496 15.0085566,4.83238328 15.2532101,4.92601219 C15.3155403,5.09241199 11.7333296,11.2611026 11.5511048,11.4433275 C11.3688799,11.6255523 5.10342519,15.3023881 4.99012967,15.1890926 Z M10.2865982,11.1317079 C10.9127427,11.1317079 11.4203331,10.6374752 11.4203331,10.0278081 C11.4203331,9.41814115 10.9127427,8.92390839 10.2865982,8.92390839 C9.66045374,8.92390839 9.15286335,9.41814115 9.15286335,10.0278081 C9.15286335,10.6374752 9.66045374,11.1317079 10.2865982,11.1317079 Z" id="path-4"></path>
+        <filter x="-9.7%" y="-11.4%" width="119.5%" height="141.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.48627451   0 0 0 0 0.270588235   0 0 0 0 0.278431373  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ExamBuilder---User-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Tab-&gt;-Edit-/-Create" transform="translate(-431.000000, -418.000000)">
+            <g id="ui/question-pop-up" transform="translate(417.000000, 402.000000)">
+                <g id="title-+-help-icon-" transform="translate(14.000000, 16.000000)">
+                    <g id="icons/COMPASS-ICON" transform="translate(0.226562, 0.000000)">
+                        <g id="Oval-44">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#D8E6F6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <ellipse stroke="#A9BED4" stroke-width="2" cx="10.4870477" cy="10.3037831" rx="9.4870477" ry="9.21107276"></ellipse>
+                        </g>
+                        <path d="M10.4870477,1.3798747 L10.4870477,4.13962409 M19.5196329,10.2110728 L16.7598835,10.2110728 M1.1710288,10.2110728 L3.93077819,10.2110728 M11.0539151,19.5942207 L11.0539151,16.8344713" id="Line" stroke="#87AFC0" stroke-linecap="square"></path>
+                        <g id="Rectangle-133">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#E47979" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <path d="M16.1557221,3.58767421 L15.0219872,5.24352385 M16.7002132,15.7454891 L15.0443636,14.6117542 M4.25150582,16.2825214 L5.38524071,14.6266718 M3.70701473,4.12470653 L5.36286436,5.25844141" id="Line" stroke="#A6C7D6" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

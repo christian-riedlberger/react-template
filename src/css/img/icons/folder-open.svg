@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="22px" viewBox="0 0 28 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/folder-open</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Exam-Compiler" transform="translate(-113.000000, -409.000000)">
+            <g id="Group-27" transform="translate(90.000000, 276.000000)">
+                <g id="Group-20">
+                    <g id="Group-18" transform="translate(23.000000, 0.000000)">
+                        <g id="Group-17" transform="translate(0.000000, 53.000000)">
+                            <g id="Group-7" transform="translate(0.000000, 80.000000)">
+                                <g id="icons/folder">
+                                    <g id="Group-31">
+                                        <g id="icons/folder-open">
+                                            <g id="Group-33">
+                                                <g id="Group-32" fill="#FFA100">
+                                                    <path d="M9.74852785,12.310506 L0.5,8.80968029 L0.5,3.40266811 C0.5,2.02047931 1.61558851,0.899993896 3.00278473,0.899993896 L9.74852753,0.899993896 L17.5,8.80968046 L9.74852785,12.310506 Z" id="Rectangle-553"></path>
+                                                    <rect id="Rectangle-553" x="0.5" y="4.3999939" width="25.6000004" height="17.6000004" rx="2.5"></rect>
+                                                </g>
+                                                <path d="M4.16072726,9.86737463 C4.34810242,8.50467788 5.61764445,7.3999939 6.99266356,7.3999939 L25.5073367,7.3999939 C26.8839968,7.3999939 27.8463845,8.51717333 27.6607275,9.86737463 L26.2046364,20.456882 C26.091619,21.2788078 25.3220346,21.9451103 24.4942208,21.9451103 L2.5,21.9451103 L4.16072726,9.86737463 Z" id="Rectangle-553" fill="#FFCB00"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

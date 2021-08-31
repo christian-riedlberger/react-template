@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <g id="download">
+                <g id="Group-13">
+                    <g id="Mask" fill="#00A9A1" fill-rule="nonzero">
+                        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                            <circle id="Oval" fill="#6475BC" cx="21" cy="21" r="21"></circle>
+                            <polygon id="Path-3" fill="#00A1E3" points="33.8781374 14.677642 7.53324679 33.750679 23.6221316 48.05373 47.1144729 26.3547805"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-3" transform="translate(7.000000, 8.000000)" fill-rule="nonzero">
+                <path d="M2,0 L11,0 C12.1045695,-2.02906125e-16 13,0.8954305 13,2 L13,5 L0,5 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                <path d="M0,6 L25,6 C26.6568542,6 28,7.34314575 28,9 L28,24 C28,25.6568542 26.6568542,27 25,27 L3,27 C1.34314575,27 2.02906125e-16,25.6568542 0,24 L0,6 Z" id="Rectangle-3" fill="#FFFFFF"></path>
+                <rect id="Rectangle-3" fill="#FF4F25" x="16" y="10" width="9" height="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

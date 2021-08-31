@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/trashcan-small-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---User-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Tab-&gt;-Browse" transform="translate(-751.000000, -563.000000)">
+            <g id="Group-39" transform="translate(460.000000, 562.000000)">
+                <g id="Group-38" transform="translate(292.000000, 1.000000)">
+                    <g id="Group-16">
+                        <g id="icons/trashcan-small-grey">
+                            <g>
+                                <polygon id="R" stroke="#969696" stroke-width="1.5" stroke-linecap="square" points="21.75 27.6057692 5.01923077 27.6057692 5.01923077 6.69230769 21.75 6.69230769"></polygon>
+                                <path d="M0.418269231,4.18269231 L26.3644506,4.18269231" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="square"></path>
+                                <rect id="Rectangle" stroke="#979797" stroke-width="1.5" x="9.11538462" y="0.75" width="8.53846154" height="3.51923077"></rect>
+                                <path d="M8.64423077,10.4245726 L8.64423077,23.6428863" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="square"></path>
+                                <path d="M13.1057692,10.4245726 L13.1057692,23.6428863" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="square"></path>
+                                <path d="M17.5673077,10.4245726 L17.5673077,23.6428863" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="square"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

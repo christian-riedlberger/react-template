@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22" height="12"></rect>
+    </defs>
+    <g id="ExamBuilder---Collections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collections" transform="translate(-473.000000, -700.000000)">
+            <g id="Group-23" transform="translate(457.000000, 465.000000)">
+                <g id="dropdown" transform="translate(16.000000, 236.000000)">
+                    <g id="Rectangle-782">
+                        <use fill="#DBECFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#64A3EE" stroke-width="1" x="0.5" y="0.5" width="21" height="11"></rect>
+                    </g>
+                    <path d="M10.5416667,0.461538462 L10.5416667,11.5384615" id="Line" stroke="#64A3EE" stroke-linecap="square"></path>
+                    <polygon id="Triangle-1" fill="#64A3EE" transform="translate(16.041667, 6.000000) rotate(-180.000000) translate(-16.041667, -6.000000) " points="18.3333333 7.38461538 13.75 7.38461538 16.0416667 4.61538462"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

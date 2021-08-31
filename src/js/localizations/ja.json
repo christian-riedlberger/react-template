@@ -1,0 +1,4342 @@
+{
+  "common.cancel": {
+    "default": "Cancel",
+    "text": ""
+  },
+  "common.cancel_changes": {
+    "default": "Cancel changes",
+    "text": ""
+  },
+  "common.cancel_change_confirm": {
+    "default": "Are you sure you want to leave this page without saving?",
+    "text": ""
+  },
+  "common.ok": {
+    "default": "OK",
+    "text": ""
+  },
+  "common.by": {
+    "default": "by",
+    "text": ""
+  },
+  "common.browse": {
+    "default": "Browse",
+    "text": ""
+  },
+  "common.passed": {
+    "default": "Passed",
+    "text": ""
+  },
+  "common.no_description": {
+    "default": "No description",
+    "text": ""
+  },
+  "common.workflow_process": {
+    "default": "workflowProcess",
+    "text": ""
+  },
+  "common.answer_options": {
+    "default": "Answer Options",
+    "text": ""
+  },
+  "common.page_previous": {
+    "default": "Previous",
+    "text": ""
+  },
+  "common.page_next": {
+    "default": "Next",
+    "text": ""
+  },
+  "common.modified": {
+    "default": "Modified",
+    "text": ""
+  },
+  "common.close": {
+    "default": "Close",
+    "text": ""
+  },
+  "common.approve": {
+    "default": "Approve",
+    "text": ""
+  },
+  "common.reject": {
+    "default": "Reject",
+    "text": ""
+  },
+  "common.due": {
+    "default": "Due",
+    "text": ""
+  },
+  "common.save": {
+    "default": "Save",
+    "text": ""
+  },
+  "common.publish": {
+    "default": "Submit for review",
+    "text": ""
+  },
+  "common.revision": {
+    "default": "Send for revision",
+    "text": ""
+  },
+  "common.revision_title": {
+    "default": "Send for revision",
+    "text": ""
+  },
+  "common.revision_desc": {
+    "default": "Add a comment regarding the upcoming change:",
+    "text": ""
+  },
+  "common.locked": {
+    "default": "Locked by:",
+    "text": ""
+  },
+  "common.required": {
+    "default": "Required",
+    "text": ""
+  },
+  "common.save_changes": {
+    "default": "SAVE CHANGES",
+    "text": ""
+  },
+  "common.cancel_and_revert": {
+    "default": "cancel and revert",
+    "text": ""
+  },
+  "common.or": {
+    "default": "or",
+    "text": ""
+  },
+  "common.name": {
+    "default": "Name",
+    "text": ""
+  },
+  "common.description": {
+    "default": "Description",
+    "text": ""
+  },
+  "common.items": {
+    "default": "Items",
+    "text": ""
+  },
+  "common.view_item": {
+    "default": "View Item",
+    "text": ""
+  },
+  "common.delete": {
+    "default": "Delete",
+    "text": ""
+  },
+  "common.multiple_select_actions": {
+    "default": "Multi item actions",
+    "text": ""
+  },
+  "common.add": {
+    "default": "Add",
+    "text": ""
+  },
+  "common.loading": {
+    "default": "Loading...",
+    "text": ""
+  },
+  "common.edit": {
+    "default": "Edit",
+    "text": ""
+  },
+  "common.actions": {
+    "default": "Actions",
+    "text": ""
+  },
+  "common.help": {
+    "default": "Help",
+    "text": ""
+  },
+  "common.support": {
+    "default": "Support",
+    "text": ""
+  },
+  "common.drop_here": {
+    "default": "Drop Here",
+    "text": ""
+  },
+  "common.multiple_select_header": {
+    "default": "Selected...",
+    "text": ""
+  },
+  "common.search_button": {
+    "default": "Search",
+    "text": ""
+  },
+  "common.marks": {
+    "default": "mark(s)",
+    "text": ""
+  },
+  "common.S1L": {
+    "default": "items missing in browser",
+    "text": ""
+  },
+  "common.S1G": {
+    "default": "too many items in browser",
+    "text": ""
+  },
+  "common.S1M": {
+    "default": "items need creating",
+    "text": ""
+  },
+  "common.search": {
+    "default": "Search...",
+    "text": ""
+  },
+  "common.delete_selected": {
+    "default": "Delete selected",
+    "text": ""
+  },
+  "common.manage_title": {
+    "default": "Manage",
+    "text": ""
+  },
+  "common.yes": {
+    "default": "Yes",
+    "text": ""
+  },
+  "common.no": {
+    "default": "No",
+    "text": ""
+  },
+  "common.create": {
+    "default": "Create",
+    "text": ""
+  },
+  "common.required_validation": {
+    "default": "required",
+    "text": ""
+  },
+  "common.invalid_validation": {
+    "default": "invalid",
+    "text": ""
+  },
+  "common.invalid_name": {
+    "default": "invalid name",
+    "text": ""
+  },
+  "common.feedback": {
+    "default": "Feedback",
+    "text": ""
+  },
+  "common.score_type": {
+    "default": "Score Type*",
+    "text": ""
+  },
+  "common.score_start": {
+    "default": "Start score",
+    "text": ""
+  },
+  "common.score_min": {
+    "default": "Min score",
+    "text": ""
+  },
+  "common.score_max": {
+    "default": "Max score",
+    "text": ""
+  },
+  "common.type": {
+    "default": "Type*",
+    "text": ""
+  },
+  "common.currency": {
+    "default": "Currency",
+    "text": ""
+  },
+  "common.text_options": {
+    "default": "Text options",
+    "text": ""
+  },
+  "common.style_options": {
+    "default": "Style options",
+    "text": ""
+  },
+  "common.collection": {
+    "default": "Collection",
+    "text": ""
+  },
+  "common.prompt": {
+    "default": "Question Prompt*",
+    "text": ""
+  },
+  "common.info_prompt": {
+    "default": "Information Prompt*",
+    "text": ""
+  },
+  "common.orientation": {
+    "default": "Orientation*",
+    "text": ""
+  },
+  "common.layout": {
+    "default": "Layout",
+    "text": ""
+  },
+  "common.type_option": {
+    "default": "Option type",
+    "text": ""
+  },
+  "common.label_option": {
+    "default": "Option label",
+    "text": ""
+  },
+  "common.size_option": {
+    "default": "Option size",
+    "text": ""
+  },
+  "common.style_option": {
+    "default": "Style options",
+    "text": ""
+  },
+  "common.response_option": {
+    "default": "Response options",
+    "text": ""
+  },
+  "common.text_align": {
+    "default": "Text align",
+    "text": ""
+  },
+  "common.decimal": {
+    "default": "Decimal format",
+    "text": ""
+  },
+  "common.min_response": {
+    "default": "Min response",
+    "text": ""
+  },
+  "common.max_response": {
+    "default": "Max response",
+    "text": ""
+  },
+  "common.term": {
+    "default": "Term",
+    "text": ""
+  },
+  "common.difficulty_level": {
+    "default": "Difficulty level",
+    "text": ""
+  },
+  "common.time": {
+    "default": "Time",
+    "text": ""
+  },
+  "common.section": {
+    "default": "Section",
+    "text": ""
+  },
+  "common.found": {
+    "default": "results found",
+    "text": ""
+  },
+  "common.last_updated": {
+    "default": "Last updated",
+    "text": ""
+  },
+  "common.updater": {
+    "default": "Updated by",
+    "text": ""
+  },
+  "common.permissions": {
+    "default": "Permissions",
+    "text": ""
+  },
+  "common.current_status": {
+    "default": "Current status:",
+    "text": ""
+  },
+  "common.status": {
+    "default": "Status",
+    "text": ""
+  },
+  "common.favorite": {
+    "default": "Favorite",
+    "text": ""
+  },
+  "common.like": {
+    "default": "Like",
+    "text": ""
+  },
+  "common.comment": {
+    "default": "Comment",
+    "text": ""
+  },
+  "common.comment_change": {
+    "default": "Let people know what you have changed:",
+    "text": ""
+  },
+  "common.comment_process": {
+    "default": "Leave a comment for the next person in the process.",
+    "text": ""
+  },
+  "common.document": {
+    "default": "Document",
+    "text": ""
+  },
+  "common.documents": {
+    "default": "Documents",
+    "text": ""
+  },
+  "common.assignee": {
+    "default": "Assignee*",
+    "text": ""
+  },
+  "common.start_workflow": {
+    "default": "Start Workflow",
+    "text": ""
+  },
+  "common.expires": {
+    "default": "Expires",
+    "text": ""
+  },
+  "common.review_date": {
+    "default": "Review date",
+    "text": ""
+  },
+  "common.claim": {
+    "default": "Claim",
+    "text": ""
+  },
+  "common.release_pool": {
+    "default": "Release to pool",
+    "text": ""
+  },
+  "common.correct_answer": {
+    "default": "Correct Answer *",
+    "text": ""
+  },
+  "common.view_process": {
+    "default": "View Process",
+    "text": ""
+  },
+  "common.accepted_range": {
+    "default": "Range:",
+    "text": ""
+  },
+  "common.none": {
+    "default": "None",
+    "text": ""
+  },
+  "common.heightPx": {
+    "default": "Height",
+    "text": ""
+  },
+  "common.widthPx": {
+    "default": "Width",
+    "text": ""
+  },
+  "common.alt": {
+    "default": "Alt text",
+    "text": ""
+  },
+  "common.placeholder": {
+    "default": "Placeholder",
+    "text": ""
+  },
+  "common.minimum": {
+    "default": "Minimum",
+    "text": ""
+  },
+  "common.maximum": {
+    "default": "Maximum",
+    "text": ""
+  },
+  "common.wordCount": {
+    "default": "Word Count",
+    "text": ""
+  },
+  "common.range": {
+    "default": "Range",
+    "text": ""
+  },
+  "common.lower": {
+    "default": "Left Value",
+    "text": ""
+  },
+  "common.upper": {
+    "default": "Right Value",
+    "text": ""
+  },
+  "common.default": {
+    "default": "Default Value",
+    "text": ""
+  },
+  "common.new_content": {
+    "default": "New content to publish",
+    "text": ""
+  },
+  "common.published": {
+    "default": "Published",
+    "text": ""
+  },
+  "common.addfriend": {
+    "default": "Add Friend",
+    "text": ""
+  },
+  "common.addenemy": {
+    "default": "Add Enemy",
+    "text": ""
+  },
+  "common.friends": {
+    "default": "Friends",
+    "text": ""
+  },
+  "common.enemies": {
+    "default": "Enemies",
+    "text": ""
+  },
+  "common.associations": {
+    "default": "Associations",
+    "text": ""
+  },
+  "common.associations_description": {
+    "default": "Use this panel to manage relationships between other items in the system.",
+    "text": ""
+  },
+  "common.preview": {
+    "default": "Preview",
+    "text": ""
+  },
+  "common.previewing_browser": {
+    "default": "Previewing browser:",
+    "text": ""
+  },
+  "common.previewing_item": {
+    "default": "Previewing item:",
+    "text": ""
+  },
+  "common.mobile": {
+    "default": "Mobile",
+    "text": ""
+  },
+  "common.tablet": {
+    "default": "Tablet",
+    "text": ""
+  },
+  "common.desktop": {
+    "default": "Desktop",
+    "text": ""
+  },
+  "common.preview_i_error": {
+    "default": "Previewing error. Either the previewer is not configured properly or your content may be invalid",
+    "text": ""
+  },
+  "common.syllabus_placeholder": {
+    "default": "Select Syllabus",
+    "text": ""
+  },
+  "common.syllabus_domain_header": {
+    "default": "Select a domain:",
+    "text": ""
+  },
+  "common.syllabus": {
+    "default": "Syllabus",
+    "text": ""
+  },
+  "common.syllabus_search": {
+    "default": "Syllabus Domain",
+    "text": ""
+  },
+  "common.syllabus_add": {
+    "default": "Add Syllabus",
+    "text": ""
+  },
+  "common.version": {
+    "default": "version",
+    "text": ""
+  },
+  "common.latest": {
+    "default": "latest",
+    "text": ""
+  },
+  "common.add_domain": {
+    "default": "Add Domain",
+    "text": ""
+  },
+  "common.item_domain": {
+    "default": "Item Domain",
+    "text": ""
+  },
+  "common.add_item_domain": {
+    "default": "Add domain to item",
+    "text": ""
+  },
+  "common.picker_empty": {
+    "default": "Please select a folder by clicking the plus icon on the right of each item",
+    "text": ""
+  },
+  "common.remove_domain": {
+    "default": "Remove this version",
+    "text": ""
+  },
+  "common.done": {
+    "default": "Done",
+    "text": ""
+  },
+  "common.label_show_page_desc": {
+    "default": "Show page descriptions",
+    "text": ""
+  },
+  "common.uploading": {
+    "default": "Uploading",
+    "text": ""
+  },
+  "common.file": {
+    "default": "Files",
+    "text": ""
+  },
+  "common.files": {
+    "default": "Files",
+    "text": ""
+  },
+  "common.moving": {
+    "default": "Moving...",
+    "text": ""
+  },
+  "common.active_dropzone": {
+    "default": "Drop files here to upload",
+    "text": ""
+  },
+  "common.error_required": {
+    "default": "is required",
+    "text": ""
+  },
+  "common.error_estimate_required": {
+    "default": "Estimate is required",
+    "text": ""
+  },
+  "common.error_not_valid": {
+    "default": "is not valid",
+    "text": ""
+  },
+  "common.error_not_a_number": {
+    "default": "is numerical, but you are using text",
+    "text": ""
+  },
+  "common.error_not_a_string": {
+    "default": "is text, but you are using a number",
+    "text": ""
+  },
+  "common.error_min_gt_max": {
+    "default": "is larger than max",
+    "text": ""
+  },
+  "common.error_file_type": {
+    "default": "Following files does not match expected file type",
+    "text": ""
+  },
+  "common.error_permission_lib": {
+    "default": "You do not have sufficient permissions to upload to the Document Library collection folder",
+    "text": ""
+  },
+  "common.error_permission_generic": {
+    "default": "You do not have sufficient permissions to perform this action",
+    "text": ""
+  },
+  "common.no_associations": {
+    "default": "No associations yet. Click the \"Add\" button to start adding associations.",
+    "text": ""
+  },
+  "common.comments": {
+    "default": "Comments",
+    "text": ""
+  },
+  "common.add_option": {
+    "default": "Add option",
+    "text": ""
+  },
+  "common.add_child": {
+    "default": "Add child",
+    "text": ""
+  },
+  "common.indent": {
+    "default": "Indent",
+    "text": ""
+  },
+  "common.outdent": {
+    "default": "Outdent",
+    "text": ""
+  },
+  "common.new_option": {
+    "default": "New Option",
+    "text": ""
+  },
+  "common.message_delete_general": {
+    "default": "Please wait. Files being deleted...",
+    "text": ""
+  },
+  "common.message_copy_document": {
+    "default": "Please wait. Copying files...",
+    "text": ""
+  },
+  "common.message_move_document": {
+    "default": "Please wait. Moving files...",
+    "text": ""
+  },
+  "common.message_failed_move_exist": {
+    "default": "A file with that name already exists",
+    "text": ""
+  },
+  "common.message_failed_move_permission": {
+    "default": "You do not have the permissions to move files into that location",
+    "text": ""
+  },
+  "common.message_delete_collection": {
+    "default": "Please wait. Deleting collection...",
+    "text": ""
+  },
+  "common.message_delete_section": {
+    "default": "Please wait. Deleting section...",
+    "text": ""
+  },
+  "common.message_create_collection": {
+    "default": "Creating collection",
+    "text": ""
+  },
+  "common.message_trash_empty": {
+    "default": "Please wait. We are clearing out the trash...",
+    "text": ""
+  },
+  "common.message_trash_restore": {
+    "default": "Please wait. We are restoring your files...",
+    "text": ""
+  },
+  "common.message_searching": {
+    "default": "Please wait. We are searching for your content...",
+    "text": ""
+  },
+  "common.message_get_schedules": {
+    "default": "Please wait. We are searching feteching your schedules...",
+    "text": ""
+  },
+  "common.prop_text": {
+    "default": "Text",
+    "text": ""
+  },
+  "common.prop_long_text": {
+    "default": "Long Text",
+    "text": ""
+  },
+  "common.prop_toggle": {
+    "default": "Toggle",
+    "text": ""
+  },
+  "common.prop_dropdown": {
+    "default": "Dropdown",
+    "text": ""
+  },
+  "common.prop_link_dropdown": {
+    "default": "Link Dropdown",
+    "text": ""
+  },
+  "common.prop_number": {
+    "default": "Number",
+    "text": ""
+  },
+  "common.prop_date": {
+    "default": "Date",
+    "text": ""
+  },
+  "common.select_dot": {
+    "default": "Select...",
+    "text": ""
+  },
+  "common.reassign": {
+    "default": "Re-assign",
+    "text": ""
+  },
+  "common.modal_reassign_title": {
+    "default": "Reassign task?",
+    "text": ""
+  },
+  "common.modal_reassign_description": {
+    "default": "Select a user to reassign to:",
+    "text": ""
+  },
+  "common.transition_to": {
+    "default": "Transition to",
+    "text": ""
+  },
+  "common.delete_count": {
+    "default": "Deleting {count} items",
+    "text": ""
+  },
+  "common.copy_count": {
+    "default": "Copying {count} items",
+    "text": ""
+  },
+  "common.move_count": {
+    "default": "Moving {count} items",
+    "text": ""
+  },
+  "common.delete_count_browser": {
+    "default": "Deleting {count} browsers",
+    "text": ""
+  },
+  "common.copy_count_browser": {
+    "default": "Copying {count} browsers",
+    "text": ""
+  },
+  "common.move_count_browser": {
+    "default": "Moving {count} browsers",
+    "text": ""
+  },
+  "common.copying_file": {
+    "default": "Copying {name}",
+    "text": ""
+  },
+  "common.moving_fle": {
+    "default": "Moving {name}",
+    "text": ""
+  },
+  "common.freeze_file": {
+    "default": "Freeze {name}?",
+    "text": ""
+  },
+  "common.no_syllabus_found": {
+    "default": "A syllabus has not been assigned to this collection",
+    "text": ""
+  },
+  "common.select_parent": {
+    "default": "- Select Parent -",
+    "text": ""
+  },
+  "common.empty_list": {
+    "default": "List is empty",
+    "text": ""
+  },
+  "common.none_selected": {
+    "default": "No items selected.",
+    "text": ""
+  },
+  "common.linked_pick_parent": {
+    "default": "Select a parent dropdown to begin",
+    "text": ""
+  },
+  "common.linked_pick_value": {
+    "default": "Select a list value to link",
+    "text": ""
+  },
+  "common.minutes": {
+    "default": "minutes",
+    "text": ""
+  },
+  "common.seconds": {
+    "default": "seconds",
+    "text": ""
+  },
+  "common.timed": {
+    "default": "timed",
+    "text": ""
+  },
+  "common.error_only_one_image": {
+    "default": "Only one image can be uploaded at a time",
+    "text": ""
+  },
+  "common.wf_publish_title": {
+    "default": "Publish {name}",
+    "text": ""
+  },
+  "common.wf_revise_title": {
+    "default": "Revise {name}",
+    "text": ""
+  },
+  "common.prop_multipleChoice": {
+    "default": "Multiple Choice",
+    "text": ""
+  },
+  "common.prop_single_choice": {
+    "default": "Single Choice",
+    "text": ""
+  },
+  "common.prop_single_image_response": {
+    "default": "Single Choice (image)",
+    "text": ""
+  },
+  "common.prop_multiple_image_response": {
+    "default": "Multiple Choice (image)",
+    "text": ""
+  },
+  "common.prop_order_text_list": {
+    "default": "Order Text List",
+    "text": ""
+  },
+  "common.prop_slider": {
+    "default": "Slider (numbers)",
+    "text": ""
+  },
+  "common.prop_gap_entry": {
+    "default": "Gap Entry",
+    "text": ""
+  },
+  "common.prop_gap_match": {
+    "default": "Gap Match",
+    "text": ""
+  },
+  "common.prop_extended_text_entry": {
+    "default": "Extended Text Entry",
+    "text": ""
+  },
+  "common.prop_short_text_entry": {
+    "default": "Short Text Entry",
+    "text": ""
+  },
+  "common.prop_hotspot": {
+    "default": "Hotspot",
+    "text": ""
+  },
+  "common.prop_information": {
+    "default": "Information",
+    "text": ""
+  },
+  "common.prop_cat_multiple_choice": {
+    "default": "Multiple choice",
+    "text": ""
+  },
+  "common.prop_cat_blanks": {
+    "default": "Fill in the blanks",
+    "text": ""
+  },
+  "common.prop_cat_classify": {
+    "default": "Classify, match, and order",
+    "text": ""
+  },
+  "common.prop_cat_highlight": {
+    "default": "Highlight",
+    "text": ""
+  },
+  "common.prop_cat_written": {
+    "default": "Written",
+    "text": ""
+  },
+  "common.unknown_type": {
+    "default": "No interaction",
+    "text": ""
+  },
+  "common.wf_ad_hoc": {
+    "default": "Ad-hoc Task",
+    "text": ""
+  },
+  "common.wf_review_group_title": {
+    "default": "Review & Approve (Group)",
+    "text": ""
+  },
+  "common.wf_review_single_title": {
+    "default": "Review & Approve (Single)",
+    "text": ""
+  },
+  "common.bracket_formatig_helper": {
+    "default": "Simply add square brackets around the words you want to become gaps. The system will create them as draggable entities for you.",
+    "text": ""
+  },
+  "common.mathematics": {
+    "default": "Mathematics",
+    "text": ""
+  },
+  "common.message_create_item": {
+    "default": "Please wait. Creating your item...",
+    "text": ""
+  },
+  "common.major_change": {
+    "default": "Major Change?",
+    "text": ""
+  },
+  "common.permissions_title": {
+    "default": "Manage Permissions",
+    "text": ""
+  },
+  "common.shuffle": {
+    "default": "Shuffle answers ?",
+    "text": ""
+  },
+  "common.url": {
+    "default": "URL",
+    "text": ""
+  },
+  "common.generate": {
+    "default": "Generate",
+    "text": ""
+  },
+  "common.download_linux": {
+    "default": "Download Linux",
+    "text": ""
+  },
+  "common.download_mac": {
+    "default": "Download MacOS",
+    "text": ""
+  },
+  "common.download_Windows": {
+    "default": "Download Windows",
+    "text": ""
+  },
+  "common.invalid_length_50": {
+    "default": "max 50 characters",
+    "text": ""
+  },
+  "common.people_search_placeholder": {
+    "default": "People search...",
+    "text": ""
+  },
+  "common.people_search_title": {
+    "default": "People search",
+    "text": ""
+  },
+  "common.people_search_desc": {
+    "default": "Enter at least the first three characters to search",
+    "text": ""
+  },
+  "common.add_comment": {
+    "default": "Add Comment",
+    "text": ""
+  },
+  "common.message_session_resume": {
+    "default": "Please wait. Resuming session...",
+    "text": ""
+  },
+  "common.message_session_pause": {
+    "default": "Please wait. Pausing session...",
+    "text": ""
+  },
+  "common.message_session_abort": {
+    "default": "Please wait. Aborting session...",
+    "text": ""
+  },
+  "common.message_session_restart": {
+    "default": "Please wait. Restarting session...",
+    "text": ""
+  },
+  "common.message_group_resume": {
+    "default": "Please wait. Resuming all sessions...",
+    "text": ""
+  },
+  "common.message_group_pause": {
+    "default": "Please wait. Pausing all sessions...",
+    "text": ""
+  },
+  "common.message_group_abort": {
+    "default": "Please wait. Aborting all sessions...",
+    "text": ""
+  },
+  "common.message_group_restart": {
+    "default": "Please wait. Restarting all sessions...",
+    "text": ""
+  },
+  "helps.username.title": {
+    "default": "Username",
+    "text": ""
+  },
+  "helps.username.description": {
+    "default": "Select a unique username. Once it has been chosen, it cannot be changed.",
+    "text": ""
+  },
+  "helps.firstname.title": {
+    "default": "First name",
+    "text": ""
+  },
+  "helps.firstname.description": {
+    "default": "Enter your first name",
+    "text": ""
+  },
+  "helps.lastname.title": {
+    "default": "Last name",
+    "text": ""
+  },
+  "helps.lastname.description": {
+    "default": "Enter your last name",
+    "text": ""
+  },
+  "helps.email.title": {
+    "default": "Email",
+    "text": ""
+  },
+  "helps.email.description": {
+    "default": "The email address given will be used to send workflow notifications.",
+    "text": ""
+  },
+  "helps.password.title": {
+    "default": "Password",
+    "text": ""
+  },
+  "helps.password.description": {
+    "default": "Keep your password safe. Try and use strong passwords as indicated by the colored indicator below",
+    "text": ""
+  },
+  "helps.passwordVerification.title": {
+    "default": "Password verification",
+    "text": ""
+  },
+  "helps.passwordVerification.description": {
+    "default": "Passwords must match, this can see confirmed by the colored bar below this field",
+    "text": ""
+  },
+  "helps.jobTitle.title": {
+    "default": "Job title",
+    "text": ""
+  },
+  "helps.jobTitle.description": {
+    "default": "Tell everybody who you are and what you are all about.",
+    "text": ""
+  },
+  "helps.phone.title": {
+    "default": "Phone number",
+    "text": ""
+  },
+  "helps.phone.description": {
+    "default": "While this is optional, it is a great way for people to be able to contact you quickly.",
+    "text": ""
+  },
+  "helps.itemTitle.title": {
+    "default": "Title",
+    "text": ""
+  },
+  "helps.itemTitle.description": {
+    "default": "The item title is used to quickly identify the question in the system",
+    "text": ""
+  },
+  "helps.itemDescription.title": {
+    "default": "Description",
+    "text": ""
+  },
+  "helps.itemDescription.description": {
+    "default": "General purpose description of your item. Often useful to enter exactly what knowledge or skill your item is testing against.",
+    "text": ""
+  },
+  "helps.itemDifficulty.title": {
+    "default": "Difficulty",
+    "text": ""
+  },
+  "helps.itemDifficulty.description": {
+    "default": "Identify how difficult the question is.",
+    "text": ""
+  },
+  "helps.itemDueDate.title": {
+    "default": "Item due date",
+    "text": ""
+  },
+  "helps.itemDueDate.description": {
+    "default": "Not used",
+    "text": ""
+  },
+  "helps.itemReviewDate.title": {
+    "default": "Review Date",
+    "text": ""
+  },
+  "helps.itemReviewDate.description": {
+    "default": "If your content must be reviewed at a later date, select the date in which the review process should start.",
+    "text": ""
+  },
+  "helps.itemExpireDate.title": {
+    "default": "Item Expiration",
+    "text": ""
+  },
+  "helps.itemExpireDate.description": {
+    "default": "If your item is time sensitive, select the date of expiration. Once the item has expired, it can no longer be added to browsers.",
+    "text": ""
+  },
+  "helps.itemTime.title": {
+    "default": "Time Estimate",
+    "text": ""
+  },
+  "helps.itemTime.description": {
+    "default": "Estimate how long it should take to complete this item. These times are used at browser assembly, so add some extra room for the candidates.",
+    "text": ""
+  },
+  "helps.helpItemStatus.title": {
+    "default": "Status",
+    "text": ""
+  },
+  "helps.helpItemStatus.description": {
+    "default": "This field will only show for collections without a workflow. Identify which stage of the lifecycle your item is currently at",
+    "text": ""
+  },
+  "helps.itemExpTo.title": {
+    "default": "Item experience to",
+    "text": ""
+  },
+  "helps.itemExpTo.description": {
+    "default": "Not used",
+    "text": ""
+  },
+  "helps.itemExpFrom.title": {
+    "default": "Item experience from",
+    "text": ""
+  },
+  "helps.itemExpFrom.description": {
+    "default": "Not used",
+    "text": ""
+  },
+  "helps.browserManagerRepository.title": {
+    "default": "Repository",
+    "text": ""
+  },
+  "helps.browserManagerRepository.description": {
+    "default": "Manage your library folders by hovering over folders to see related actions. Click on folder names to reveal files in the right column.",
+    "text": ""
+  },
+  "helps.browserManagerStatus.title": {
+    "default": "Status",
+    "text": ""
+  },
+  "helps.browserManagerStatus.description": {
+    "default": "Filter your library by browsers that are in a particular status in your workflow.",
+    "text": ""
+  },
+  "helps.prompt_title": {
+    "default": "Question Prompt",
+    "text": ""
+  },
+  "helps.prompt_description": {
+    "default": "Propose the question to the candidate",
+    "text": ""
+  },
+  "helps.answer_options_title": {
+    "default": "Answer options",
+    "text": ""
+  },
+  "helps.answer_options_description": {
+    "default": "Add answer alternatives to your item",
+    "text": ""
+  },
+  "helps.orientation_title": {
+    "default": "Orientation",
+    "text": ""
+  },
+  "helps.orientation_description": {
+    "default": "When displaying a list of answers, you can decide how they are displayed to the candidate",
+    "text": ""
+  },
+  "helps.layout_title": {
+    "default": "Layout",
+    "text": ""
+  },
+  "helps.layout_description": {
+    "default": "If using a horizontal layout, decide on how many lists you want to show",
+    "text": ""
+  },
+  "helps.type_options_title": {
+    "default": "Option Types",
+    "text": ""
+  },
+  "helps.type_options_description": {
+    "default": "A predefined list of answer styles",
+    "text": ""
+  },
+  "helps.label_options_title": {
+    "default": "Option Label",
+    "text": ""
+  },
+  "helps.label_options_description": {
+    "default": "Prefix your questions with letters or numbers",
+    "text": ""
+  },
+  "helps.min_response_title": {
+    "default": "Min response",
+    "text": ""
+  },
+  "helps.min_response_description": {
+    "default": "Force your candidates to give a minimum response",
+    "text": ""
+  },
+  "helps.max_response_title": {
+    "default": "Max response",
+    "text": ""
+  },
+  "helps.max_response_description": {
+    "default": "Force your candidates to give a maximum response",
+    "text": ""
+  },
+  "helps.score_type_title": {
+    "default": "Score Type",
+    "text": ""
+  },
+  "helps.score_type_description": {
+    "default": "Score types allow you to decide if you want the candidate to match your answer, or map different response alternatives to specific values (such as a negative score)",
+    "text": ""
+  },
+  "helps.height": {
+    "default": "Height",
+    "text": ""
+  },
+  "helps.width": {
+    "default": "Width",
+    "text": ""
+  },
+  "helps.size_description": {
+    "default": "All sizes are in pixels. Clear the value to use the original image width",
+    "text": ""
+  },
+  "helps.browser.name": {
+    "default": "Name",
+    "text": ""
+  },
+  "helps.browser.name_description": {
+    "default": "Description for this field",
+    "text": ""
+  },
+  "helps.browser.named": {
+    "default": "Named browser",
+    "text": ""
+  },
+  "helps.browser.named_description": {
+    "default": "Description for this field",
+    "text": ""
+  },
+  "helps.browser.url": {
+    "default": "URL",
+    "text": ""
+  },
+  "helps.browser.download": {
+    "default": "Download",
+    "text": ""
+  },
+  "helps.browser.download_description": {
+    "default": "Description for this field",
+    "text": ""
+  },
+  "helps.browser.config": {
+    "default": "Configuration",
+    "text": ""
+  },
+  "helps.browser.config_description": {
+    "default": "Description for this field",
+    "text": ""
+  },
+  "helps.browser.actions_events": {
+    "default": "Actions & Events",
+    "text": ""
+  },
+  "helps.browser.actions_events_description": {
+    "default": "Description for this field",
+    "text": ""
+  },
+  "menu.dashboard": {
+    "default": "Dashboard",
+    "text": ""
+  },
+  "menu.documents": {
+    "default": "Documents",
+    "text": ""
+  },
+  "menu.people": {
+    "default": "People",
+    "text": ""
+  },
+  "menu.tasks": {
+    "default": "Tasks",
+    "text": ""
+  },
+  "messages.label.date": {
+    "default": "Date:",
+    "text": ""
+  },
+  "menu.requests": {
+    "default": "Requests",
+    "text": ""
+  },
+  "menu.received": {
+    "default": "Received",
+    "text": ""
+  },
+  "text.enabled": {
+    "default": "Enabled",
+    "text": ""
+  },
+  "menu.issued": {
+    "default": "Issued",
+    "text": ""
+  },
+  "menu.assign": {
+    "default": "Assign New",
+    "text": ""
+  },
+  "menu.reports": {
+    "default": "Reports",
+    "text": ""
+  },
+  "button.create_new": {
+    "default": "Create new",
+    "text": ""
+  },
+  "menu.library": {
+    "default": "Library",
+    "text": ""
+  },
+  "menu.everything": {
+    "default": "Everything",
+    "text": ""
+  },
+  "menu.drafts": {
+    "default": "Drafts",
+    "text": ""
+  },
+  "menu.details": {
+    "default": "Details",
+    "text": ""
+  },
+  "global.footer_title": {
+    "default": "GFR {version}",
+    "text": ""
+  },
+  "global.footer_company": {
+    "default": "Greenfence Trust Management Platform",
+    "text": ""
+  },
+  "document.dashboard.doc_title": {
+    "default": "Home - Greenfence",
+    "text": ""
+  },
+  "document.documents.doc_title": {
+    "default": "Documents - Greenfence",
+    "text": ""
+  },
+  "messages.invigilators": {
+    "default": "Invigilators",
+    "text": ""
+  },
+  "messages.candidates": {
+    "default": "Candidates",
+    "text": ""
+  },
+  "messages.candidateExams": {
+    "default": "exams",
+    "text": ""
+  },
+  "messages.candidateOrganizations": {
+    "default": "organizations",
+    "text": ""
+  },
+  "messages.candidateInfractions": {
+    "default": "infractions",
+    "text": ""
+  },
+  "messages.candidateActiveFor": {
+    "default": "Member since:",
+    "text": ""
+  },
+  "messages.location": {
+    "default": "Location",
+    "text": ""
+  },
+  "messages.locations": {
+    "default": "Locations",
+    "text": ""
+  },
+  "messages.overview": {
+    "default": "Overview",
+    "text": ""
+  },
+  "messages.assessments": {
+    "default": "Assessments",
+    "text": ""
+  },
+  "messages.items": {
+    "default": "Items",
+    "text": ""
+  },
+  "messages.action": {
+    "default": "Action",
+    "text": ""
+  },
+  "messages.to": {
+    "default": "To",
+    "text": ""
+  },
+  "messages.filters": {
+    "default": "Filters",
+    "text": ""
+  },
+  "messages.filters.all": {
+    "default": "All Time",
+    "text": ""
+  },
+  "messages.filters.month": {
+    "default": "This Month",
+    "text": ""
+  },
+  "messages.filters.year": {
+    "default": "This Year",
+    "text": ""
+  },
+  "messages.filters.range": {
+    "default": "Range",
+    "text": ""
+  },
+  "messages.label.need_new_report": {
+    "default": "Need a new report?",
+    "text": ""
+  },
+  "page.title.document_details": {
+    "default": "Document details - Greenfence",
+    "text": ""
+  },
+  "page.title.workflow_details": {
+    "default": "Workflow document details - Greenfence",
+    "text": ""
+  },
+  "messages.label.createAReport": {
+    "default": "Create a report",
+    "text": ""
+  },
+  "messages.by_me": {
+    "default": "By me",
+    "text": ""
+  },
+  "messages.by_others": {
+    "default": "By others",
+    "text": ""
+  },
+  "messages.active": {
+    "default": "Active",
+    "text": ""
+  },
+  "messages.inactive": {
+    "default": "Inactive",
+    "text": ""
+  },
+  "messages.completed": {
+    "default": "Completed",
+    "text": ""
+  },
+  "messages.red_label": {
+    "default": "Problem areas",
+    "text": ""
+  },
+  "messages.yellow_label": {
+    "default": "Warning signs",
+    "text": ""
+  },
+  "messages.green_label": {
+    "default": "No issues",
+    "text": ""
+  },
+  "messages.section.title_name": {
+    "default": "Search by name",
+    "text": ""
+  },
+  "messages.section.title_date": {
+    "default": "Search by date",
+    "text": ""
+  },
+  "messages.section.title_created": {
+    "default": "Created",
+    "text": ""
+  },
+  "messages.section.title_level": {
+    "default": "Suspicion Level",
+    "text": ""
+  },
+  "messages.section.title_status": {
+    "default": "Status",
+    "text": ""
+  },
+  "messages.button.view_reviews": {
+    "default": "View All Reviews",
+    "text": ""
+  },
+  "messages.positive": {
+    "default": "Positive",
+    "text": ""
+  },
+  "messages.negative": {
+    "default": "Negative",
+    "text": ""
+  },
+  "messages.reviews": {
+    "default": "Reviews",
+    "text": ""
+  },
+  "messages.save": {
+    "default": "Save changes",
+    "text": ""
+  },
+  "messages.add": {
+    "default": "ADD",
+    "text": ""
+  },
+  "messages.or": {
+    "default": "or",
+    "text": ""
+  },
+  "messages.cancel": {
+    "default": "Cancel",
+    "text": ""
+  },
+  "messages.cancelled": {
+    "default": "Cancelled",
+    "text": ""
+  },
+  "messages.unauthorized": {
+    "default": "Unauthorized",
+    "text": ""
+  },
+  "messages.clear": {
+    "default": "Clear",
+    "text": ""
+  },
+  "messages.groups_label": {
+    "default": "Security Groups",
+    "text": ""
+  },
+  "messages.personal_label": {
+    "default": "Details",
+    "text": ""
+  },
+  "messages.update_avatar": {
+    "default": "Change profile image",
+    "text": ""
+  },
+  "messages.social_label": {
+    "default": "Add links to further enhance your profile",
+    "text": ""
+  },
+  "messages.location_org": {
+    "default": "Organization",
+    "text": ""
+  },
+  "messages.location_label": {
+    "default": "About my location",
+    "text": ""
+  },
+  "messages.credentials_label": {
+    "default": "Password",
+    "text": ""
+  },
+  "messages.social_medial_label": {
+    "default": "SOCIAL MEDIA",
+    "text": ""
+  },
+  "users.email_invalid": {
+    "default": "Email is invalid",
+    "text": ""
+  },
+  "users.email_first_invalid": {
+    "default": "First name is invalid",
+    "text": ""
+  },
+  "users.email_last_invalid": {
+    "default": "Last name is invalid",
+    "text": ""
+  },
+  "users.user_name_invalid": {
+    "default": "User Name is invalid",
+    "text": ""
+  },
+  "users.user_name_validation_text": {
+    "default": "User Name must have at least 2 characters",
+    "text": ""
+  },
+  "messages.filter.assessment": {
+    "default": "Filter by exam",
+    "text": ""
+  },
+  "messages.filter.location": {
+    "default": "Filter by location",
+    "text": ""
+  },
+  "messages.filter.org": {
+    "default": "Filter by organization",
+    "text": ""
+  },
+  "messages.label.assessment": {
+    "default": "Exam:",
+    "text": ""
+  },
+  "messages.label.location": {
+    "default": "Loc:",
+    "text": ""
+  },
+  "messages.label.org": {
+    "default": "Org:",
+    "text": ""
+  },
+  "messages.search": {
+    "default": "Search",
+    "text": ""
+  },
+  "messages.placeholder.search": {
+    "default": "Search...",
+    "text": ""
+  },
+  "messages.available_exams": {
+    "default": "Available exams",
+    "text": ""
+  },
+  "messages.selected_exams": {
+    "default": "Exams selected",
+    "text": ""
+  },
+  "messages.available_locations": {
+    "default": "Available locations",
+    "text": ""
+  },
+  "messages.selected_locations": {
+    "default": "Locations selected",
+    "text": ""
+  },
+  "messages.available_orgs": {
+    "default": "Available Organizations",
+    "text": ""
+  },
+  "messages.selected_orgs": {
+    "default": "Organizations selected",
+    "text": ""
+  },
+  "errors.required": {
+    "default": "Required",
+    "text": ""
+  },
+  "menu.edit_details": {
+    "default": "Edit details",
+    "text": ""
+  },
+  "menu.edit_chart": {
+    "default": "Edit chart",
+    "text": ""
+  },
+  "menu.delete_user": {
+    "default": "Delete user",
+    "text": ""
+  },
+  "Signing.username": {
+    "default": "Username",
+    "text": ""
+  },
+  "Signing.password": {
+    "default": "Password",
+    "text": ""
+  },
+  "Signing.keep_signed": {
+    "default": "Keep me signed in?",
+    "text": ""
+  },
+  "Signing.session_expired_message": {
+    "default": "You are no longer signed in",
+    "text": ""
+  },
+  "Signing.enter_credentials_message": {
+    "default": "Enter username and password",
+    "text": ""
+  },
+  "Signing.invalid_credentials_message": {
+    "default": "Invalid username or password",
+    "text": ""
+  },
+  "Signing.show": {
+    "default": "Show",
+    "text": ""
+  },
+  "Signing.hide": {
+    "default": "Hide",
+    "text": ""
+  },
+  "messages.infractions": {
+    "default": "infractions",
+    "text": ""
+  },
+  "messages.reliability": {
+    "default": "reliability",
+    "text": ""
+  },
+  "options.consumer": {
+    "default": "Read",
+    "text": ""
+  },
+  "options.commentator": {
+    "default": "Read",
+    "text": ""
+  },
+  "options.contributor": {
+    "default": "Contributor",
+    "text": ""
+  },
+  "options.collaborator": {
+    "default": "Read/Write",
+    "text": ""
+  },
+  "options.coordinator": {
+    "default": "Administrator",
+    "text": ""
+  },
+  "Signing.rights": {
+    "default": "@{year} All Rights Reserved. Greenfence® is a registered  trademark.",
+    "text": ""
+  },
+  "messages.label.page": {
+    "default": "Page",
+    "text": ""
+  },
+  "messages.button.continue": {
+    "default": "Continue",
+    "text": ""
+  },
+  "messages.button.back": {
+    "default": "Back",
+    "text": ""
+  },
+  "messages.button.next": {
+    "default": "Next",
+    "text": ""
+  },
+  "messages.button.submit": {
+    "default": "Submit",
+    "text": ""
+  },
+  "messages.button.resume": {
+    "default": "Resume",
+    "text": ""
+  },
+  "messages.button.add_ingredient": {
+    "default": "Add Ingredient",
+    "text": ""
+  },
+  "messages.button.pay": {
+    "default": "Pay",
+    "text": ""
+  },
+  "messages.button.issue_send": {
+    "default": "Issue & Send",
+    "text": ""
+  },
+  "messages.user.update_profile": {
+    "default": "Update Profile",
+    "text": ""
+  },
+  "messages.user.update_profile_description": {
+    "default": "Update user profile",
+    "text": ""
+  },
+  "messages.whatNext": {
+    "default": "What would you like to do next?",
+    "text": ""
+  },
+  "messages.form.name": {
+    "default": "Name",
+    "text": ""
+  },
+  "messages.form.firstName": {
+    "default": "First Name",
+    "text": ""
+  },
+  "messages.form.lastName": {
+    "default": "Last Name",
+    "text": ""
+  },
+  "messages.category": {
+    "default": "Category",
+    "text": ""
+  },
+  "messages.form.organization": {
+    "default": "Organization",
+    "text": ""
+  },
+  "messages.form.jobTitle": {
+    "default": "Job Title",
+    "text": ""
+  },
+  "messages.form.email": {
+    "default": "Email",
+    "text": ""
+  },
+  "messages.username": {
+    "default": "Username",
+    "text": ""
+  },
+  "messages.actions": {
+    "default": "Actions",
+    "text": ""
+  },
+  "messages.form.facebook": {
+    "default": "Facebook",
+    "text": ""
+  },
+  "messages.form.twitter": {
+    "default": "Twitter",
+    "text": ""
+  },
+  "messages.form.linkedin": {
+    "default": "Linkedin",
+    "text": ""
+  },
+  "messages.form.userName": {
+    "default": "UserName",
+    "text": ""
+  },
+  "messages.form.oldPassword": {
+    "default": "Old Password",
+    "text": ""
+  },
+  "messages.form.newPassword": {
+    "default": "New Password *",
+    "text": ""
+  },
+  "messages.form.verifyPassword": {
+    "default": "Verify Password *",
+    "text": ""
+  },
+  "message.form.description": {
+    "default": "Description",
+    "text": ""
+  },
+  "messages.form.address": {
+    "default": "Address",
+    "text": ""
+  },
+  "messages.form.city": {
+    "default": "City",
+    "text": ""
+  },
+  "messages.form.country": {
+    "default": "Country",
+    "text": ""
+  },
+  "messages.form.postalcode": {
+    "default": "Postal Code",
+    "text": ""
+  },
+  "messages.form.phone": {
+    "default": "Phone",
+    "text": ""
+  },
+  "messages.form.state": {
+    "default": "State",
+    "text": ""
+  },
+  "messages.form.line_one": {
+    "default": "Line 1",
+    "text": ""
+  },
+  "messages.form.line_two": {
+    "default": "Line 2",
+    "text": ""
+  },
+  "messages.form.town_city": {
+    "default": "Town/City",
+    "text": ""
+  },
+  "messages.form.timezone": {
+    "default": "Timezone",
+    "text": ""
+  },
+  "messages.form.countrycode": {
+    "default": "Country code",
+    "text": ""
+  },
+  "messages.form.mobile": {
+    "default": "Mobile Phone Number",
+    "text": ""
+  },
+  "messages.form.about_me": {
+    "default": "More about me",
+    "text": ""
+  },
+  "messages.form.about_me_placeholder": {
+    "default": "Add your education, skills, experience, so others can learn more about you",
+    "text": ""
+  },
+  "messages.form.website": {
+    "default": "Website",
+    "text": ""
+  },
+  "messages.form.color": {
+    "default": "Color",
+    "text": ""
+  },
+  "messages.form.avatar": {
+    "default": "Avatar",
+    "text": ""
+  },
+  "message.validate.report_exists": {
+    "default": "That report name already exists",
+    "text": ""
+  },
+  "messages.button.finish": {
+    "default": "Finish",
+    "text": ""
+  },
+  "messages.button.skip": {
+    "default": "Skip",
+    "text": ""
+  },
+  "messages.form.domains_to_query": {
+    "default": "Select domains to query",
+    "text": ""
+  },
+  "messages.form.domains_to_query_description": {
+    "default": "Your new report will query for possible fraudulent data. Use the form below to specify what data streams you want to report by. If a domain is not selected, the report will use all possible data in that catagory",
+    "text": ""
+  },
+  "messages.form.date_range": {
+    "default": "Date range",
+    "text": ""
+  },
+  "messages.form.domain_date_range_description": {
+    "default": "Your report will only focus on candidate submissions between these dates:",
+    "text": ""
+  },
+  "messages.form.domain_focus_description": {
+    "default": "Your report will only focus on the {value} listed below:",
+    "text": ""
+  },
+  "messages.form.organizations": {
+    "default": "Organizations",
+    "text": ""
+  },
+  "messages.form.domain_organization_description": {
+    "default": "Your report will only focus on the organizations listed below:",
+    "text": ""
+  },
+  "messages.form.users_and_groups": {
+    "default": "Users and groups",
+    "text": ""
+  },
+  "messages.form.who_notify": {
+    "default": "Who should be notified?",
+    "text": ""
+  },
+  "messages.form.how_often": {
+    "default": "How often?",
+    "text": ""
+  },
+  "messages.form.how_often_description": {
+    "default": "Change how often you want to recieve emails:",
+    "text": ""
+  },
+  "messages.form.fraud_sensitivity": {
+    "default": "Fraud sensitivity",
+    "text": ""
+  },
+  "messages.form.fraud_sensitivity_description": {
+    "default": "Change fraud detection levels:",
+    "text": ""
+  },
+  "messages.form.sensitivity": {
+    "default": "Sensitivity",
+    "text": ""
+  },
+  "messages.form.selected_users_groups": {
+    "default": "Selected users/groups",
+    "text": ""
+  },
+  "messages.form.period": {
+    "default": "Period",
+    "text": ""
+  },
+  "messages.form.threshold": {
+    "default": "Threshold",
+    "text": ""
+  },
+  "messages.selection.daily": {
+    "default": "Daily",
+    "text": ""
+  },
+  "messages.selection.weekly": {
+    "default": "Weekly",
+    "text": ""
+  },
+  "messages.selection.mothly": {
+    "default": "Monthly",
+    "text": ""
+  },
+  "messages.selection.warning": {
+    "default": "Warning signs",
+    "text": ""
+  },
+  "messages.selection.danger": {
+    "default": "Occured signs",
+    "text": ""
+  },
+  "messages.form.integrations": {
+    "default": "Integrations",
+    "text": ""
+  },
+  "messages.form.integrations_description": {
+    "default": "Improve fraud detection by connecting your other assessment tools. Get notified immidiately when issues are found",
+    "text": ""
+  },
+  "messages.form.notifications": {
+    "default": "Notifications",
+    "text": ""
+  },
+  "messages.form.label.optional": {
+    "default": "Optional",
+    "text": ""
+  },
+  "messages.form.lifecycle": {
+    "default": "Lifecycle",
+    "text": ""
+  },
+  "message.form.enable_integrations": {
+    "default": "Enable integrations",
+    "text": ""
+  },
+  "messages.form.enable_email_updates": {
+    "default": "Enable email updates",
+    "text": ""
+  },
+  "messafges.form.subscribe_to_notifications": {
+    "default": "Subscribe to notifications",
+    "text": ""
+  },
+  "messages.form.subscribe_to_notifications_description": {
+    "default": "Would you like to get updates when issues happen",
+    "text": ""
+  },
+  "messages.form.report_lifecycle": {
+    "default": "Report lifecycle",
+    "text": ""
+  },
+  "messages.form.report_lifecycle_description": {
+    "default": "A report should be created for a specific use-case and/or business purpose. Once a report has ved it's purpose it chould be archived and then eventually destroyed. Use the form below to setup the lifecycle:",
+    "text": ""
+  },
+  "messages.form.enable_lifecycle": {
+    "default": "Enable lifecycle",
+    "text": ""
+  },
+  "messages.form.report_expiration": {
+    "default": "Report expiration",
+    "text": ""
+  },
+  "messages.form.report_retention": {
+    "default": "Report retention",
+    "text": ""
+  },
+  "messages.form.report_retention_description": {
+    "default": "How long should this report be kept for once expired?",
+    "text": ""
+  },
+  "message.form.exp_date": {
+    "default": "Exp. Date",
+    "text": ""
+  },
+  "messages.form.exp_time": {
+    "default": "Exp. Time",
+    "text": ""
+  },
+  "messages.selection.1_year": {
+    "default": "1 Year",
+    "text": ""
+  },
+  "messages.selection.1_month": {
+    "default": "1 Month",
+    "text": ""
+  },
+  "messages.selection.3_month": {
+    "default": "3 Months",
+    "text": ""
+  },
+  "messages.selection.1_week": {
+    "default": "1 Week",
+    "text": ""
+  },
+  "messages.selection.warnings": {
+    "default": "Warning signs",
+    "text": ""
+  },
+  "messages.selection.infractions": {
+    "default": "Infraction signs",
+    "text": ""
+  },
+  "messages.form.domain_assessment_description": {
+    "default": "Your report will only focus on the assessments listed below:",
+    "text": ""
+  },
+  "messages.form.domain_locationt_description": {
+    "default": "Your report will only focus on the locations listed below:",
+    "text": ""
+  },
+  "messages.field.from_date": {
+    "default": "From date",
+    "text": ""
+  },
+  "messages.field.to_Date": {
+    "default": "To date",
+    "text": ""
+  },
+  "messages.available_organizations": {
+    "default": "Available airganizations",
+    "text": ""
+  },
+  "messages.picker.change_date": {
+    "default": "Change date",
+    "text": ""
+  },
+  "messages.picker.change_time": {
+    "default": "Change time",
+    "text": ""
+  },
+  "messages.body.loading": {
+    "default": "loading...",
+    "text": ""
+  },
+  "messages.error.cant_be_empty": {
+    "default": "Can't be empty",
+    "text": ""
+  },
+  "messages.error.end_before_start": {
+    "default": "End date is before start date",
+    "text": ""
+  },
+  "messages.form.date_before_today": {
+    "default": "Date is before today",
+    "text": ""
+  },
+  "messages.validation.name_length_invalid": {
+    "default": "Name can't be shorter than 3 characters",
+    "text": ""
+  },
+  "messages.chart_type": {
+    "default": "Chart type",
+    "text": ""
+  },
+  "action.report_dashboard": {
+    "default": "Report dashboard",
+    "text": ""
+  },
+  "action.report_summary": {
+    "default": "Summary (PDF)",
+    "text": ""
+  },
+  "message.report_update_pending": {
+    "default": "Updating report...",
+    "text": ""
+  },
+  "message.report_update_success": {
+    "default": "Report has been updated",
+    "text": ""
+  },
+  "message.report_update_error": {
+    "default": "There was a problem updating the report",
+    "text": ""
+  },
+  "message.report_create_pending": {
+    "default": "Creating report...",
+    "text": ""
+  },
+  "message.report_create_success": {
+    "default": "Success. Report created!",
+    "text": ""
+  },
+  "message.report_create_error": {
+    "default": "There was a problem creating the report",
+    "text": ""
+  },
+  "users.access_denied": {
+    "default": "You don't have the permission to perform this action.",
+    "text": ""
+  },
+  "label.basic_details": {
+    "default": "Basic Details",
+    "text": ""
+  },
+  "users.server_error": {
+    "default": "Server error",
+    "text": ""
+  },
+  "users.missing_email_error": {
+    "default": "Email is required",
+    "text": ""
+  },
+  "users.missing_first_name_error": {
+    "default": "First name is required",
+    "text": ""
+  },
+  "users.missing_password_error": {
+    "default": "Password is required",
+    "text": ""
+  },
+  "users.missing_user_name_error": {
+    "default": "User name is required",
+    "text": ""
+  },
+  "users.password_strength": {
+    "default": "Password is too weak. Try adding numbers, capital letters, and special characters to make it stronger",
+    "text": ""
+  },
+  "users.password_validation_text": {
+    "default": "Password must have at least 3 characters",
+    "text": ""
+  },
+  "users.password_verification_text": {
+    "default": "Password fields don't match",
+    "text": ""
+  },
+  "users.new_password_validation_text": {
+    "default": "New password cannot be the same as the old one",
+    "text": ""
+  },
+  "users.old_password_required": {
+    "default": "Old password required to change password",
+    "text": ""
+  },
+  "users.already_exists": {
+    "default": "User with the same username already exists.",
+    "text": ""
+  },
+  "users.enabled_label": {
+    "default": "Account enabled?",
+    "text": ""
+  },
+  "users.external_label": {
+    "default": "External User?",
+    "text": ""
+  },
+  "common.user_profile": {
+    "default": "User profile",
+    "text": ""
+  },
+  "users.edit_avatar_title": {
+    "default": "Edit Avatar",
+    "text": ""
+  },
+  "users.edit_avatar_message": {
+    "default": "Upload and edit avatar",
+    "text": ""
+  },
+  "users.old_password_wrong": {
+    "default": "Wrong old password",
+    "text": ""
+  },
+  "users.save_succeeded": {
+    "default": "Save Succeeded",
+    "text": ""
+  },
+  "tip.tipGsDfDsTi_desc": {
+    "default": "Guttman score dependent on difficulty, distance and time",
+    "text": ""
+  },
+  "hint.datalist_items_total_rc_none_title": {
+    "default": "Total None RC",
+    "text": ""
+  },
+  "hint.datalist_items_total_rc_none_desc": {
+    "default": "Response count, no response given",
+    "text": ""
+  },
+  "hint.sample_rc_title": {
+    "default": "Sample RC",
+    "text": ""
+  },
+  "hint.sample_rc_desc": {
+    "default": "Response Count",
+    "text": ""
+  },
+  "hint._total_crc_title": {
+    "default": "Total CRC",
+    "text": ""
+  },
+  "hint._total_crc_Desc": {
+    "default": "Total Correct Response Count",
+    "text": ""
+  },
+  "hint._total_r_title": {
+    "default": "Total RC",
+    "text": ""
+  },
+  "hint._total_rc_Desc": {
+    "default": "Item response time given by a unique candidate",
+    "text": ""
+  },
+  "hint.p_value_s_d_title": {
+    "default": "P-Value SD",
+    "text": ""
+  },
+  "hint.p_value_s_d_desc": {
+    "default": "P-Value Standard Deviation",
+    "text": ""
+  },
+  "hint.rit_title": {
+    "default": "RIT",
+    "text": ""
+  },
+  "hint.rit_desc": {
+    "default": "Rasch Unit",
+    "text": ""
+  },
+  "hint.total_art_title": {
+    "default": "Total Art",
+    "text": ""
+  },
+  "hint.total_art_desc": {
+    "default": "Total Average Response Time",
+    "text": ""
+  },
+  "hint.sd_df_title": {
+    "default": "SD df",
+    "text": ""
+  },
+  "hint.sd_df_desc": {
+    "default": "Standard Deviation for difficulty. 1 SD difference from average",
+    "text": ""
+  },
+  "message.folder.action.create_success": {
+    "default": "Success. Folder created!",
+    "text": ""
+  },
+  "message.folder.action.update_success": {
+    "default": "Success. Folder updated!",
+    "text": ""
+  },
+  "message.folder.action.delete_success": {
+    "default": "Success. Folder deleted!",
+    "text": ""
+  },
+  "message.folder.action.delete_error": {
+    "default": "Error",
+    "text": ""
+  },
+  "message.folder.action.target_error": {
+    "default": "Error: No destination folder selected",
+    "text": ""
+  },
+  "hint.items_mirc_title": {
+    "default": "Minimum Response Count",
+    "text": ""
+  },
+  "hint.items_mirc_desc": {
+    "default": "Items with least responses",
+    "text": ""
+  },
+  "hint.items_marc_title": {
+    "default": "Maximum Response Count",
+    "text": ""
+  },
+  "hint.items_marc_desc": {
+    "default": "Items with most responses",
+    "text": ""
+  },
+  "hint.avg_rit_title": {
+    "default": "Avg RIT",
+    "text": ""
+  },
+  "hint.avg_rit_desc": {
+    "default": "Average Rasch unit",
+    "text": ""
+  },
+  "hint.g_error_title": {
+    "default": "Guttman error",
+    "text": ""
+  },
+  "hint.g_error_desc": {
+    "default": "This can be translated as the sum of the sum of all correct responses after each incorrect response in a response vector of an individual test taker.",
+    "text": ""
+  },
+  "hint.g_score_title": {
+    "default": "Guttman score",
+    "text": ""
+  },
+  "hint.g_score_desc": {
+    "default": "This can be translated as the Guttman error divided by the number of correct responses * the number of incorrect responses.",
+    "text": ""
+  },
+  "hint.g_score_difficulty_title": {
+    "default": "Guttman Score Difficulty",
+    "text": ""
+  },
+  "hint.g_score_difficulty_desc": {
+    "default": "This can be translated as the Guttman score but only for item responses that are separated by a given difficulty in the response vector of the individual test taker. Thus, a Guttman error will only be counted as such when the difference between items g and h suffices the given difficulty level.",
+    "text": ""
+  },
+  "hint.g_score_distance_title": {
+    "default": "Guttman Score Distance",
+    "text": ""
+  },
+  "hint.g_score_distance_desc": {
+    "default": "This can be translated as the Guttman score but only for item responses that are separated by a given distance in the response vector of the individual test taker. Thus, a Guttman error will only be counted as such when the difference between items g and h suffices the given distance level.",
+    "text": ""
+  },
+  "hint.g_score_ds_df_title": {
+    "default": "Guttman Score Distance Difference",
+    "text": ""
+  },
+  "hint.g_score_ds_df_desc": {
+    "default": "Guttman Score Distance Difference",
+    "text": ""
+  },
+  "hint.g_score_ti_title": {
+    "default": "Guttman Score Response Time",
+    "text": ""
+  },
+  "hint.g_score_ti_desc": {
+    "default": "This can be translated as the Guttman score but only for item responses that are 3SD away from the mean response time for that particular item. Thus, a Guttman error will only be counted as such when the difference between items g and h suffices the response time constraint.",
+    "text": ""
+  },
+  "hint.g_score_ti_df_title": {
+    "default": "Guttman Score Time + Difficulty",
+    "text": ""
+  },
+  "hint.g_score_ti_df_desc": {
+    "default": "This can be translated as the Guttman score but only for item responses that are 3SD away from the mean response time for that particular item. Thus, a Guttman error will only be counted as such when the difference between items g and h suffices the response time and difficulty constraint.",
+    "text": ""
+  },
+  "hint._g_score_ds_ti_title": {
+    "default": "Guttman Score Distance Response Time",
+    "text": ""
+  },
+  "hint._g_score_ds_ti_desc": {
+    "default": "This can be translated as the Guttman score but only for item responses that are 3SD away from the mean response time for that particular item. Thus, a Guttman error will only be counted as such when the difference between items g and h suffices the response time and distance constraint.",
+    "text": ""
+  },
+  "hint.g_score_ds_ti_df_title": {
+    "default": "Guttman Score Distance Time Difference",
+    "text": ""
+  },
+  "hint.g_score_ds_ti_df_desc": {
+    "default": "Guttman Score Distance Time Difference",
+    "text": ""
+  },
+  "hint.wp_title": {
+    "default": "Working Pace",
+    "text": ""
+  },
+  "hint.wp_desc": {
+    "default": "This formula first calculates the working speed for each test taker, which is the total time on the test / divided by the expected time on the test. The expected time on the test is the same as the first part in the formula under 8. It is the average response time, but now for all items in the test of the test taker (so N is still the number of responses but now only to the items that were in that specific test). The expected response time on the item E(Itemtime) is defined as the average response time on the item, while Otime is the actual or observed response time on the item. The first part of the formula is an absolute number which means that in the case that it is negative it will be transformed into a positive number.",
+    "text": ""
+  },
+  "scale.guttman_analysis": {
+    "default": "Guttman Analysis",
+    "text": ""
+  },
+  "scale.guttman_analysis_desc": {
+    "default": "Listed below are the standard deviations for the Guttman scoring. These variables are used to validate and flag aberrant behaviour in exams.",
+    "text": ""
+  },
+  "scale.deltas": {
+    "default": "Δ Deltas",
+    "text": ""
+  },
+  "scale.deltas_desc": {
+    "default": "Listed below are the standard deviations for the Guttman scoring. These variables are used to validate and flag aberrant behaviour in exams.",
+    "text": ""
+  },
+  "messages.time": {
+    "default": "Time",
+    "text": ""
+  },
+  "message.p_value": {
+    "default": "P",
+    "text": ""
+  },
+  "messages.pos": {
+    "default": "Pos",
+    "text": ""
+  },
+  "form.set_custom_thresholds": {
+    "default": "Set report thresholds",
+    "text": ""
+  },
+  "form.set_custom_thresholds_desc": {
+    "default": "Listed below are the standard deviations for the Guttman scoring and the Deltas. These variables are used to validate and flag aberrant behaviour in exams.",
+    "text": ""
+  },
+  "form.enable_guttman_threshold": {
+    "default": "Enable Custom Guttman Threshold",
+    "text": ""
+  },
+  "form.enable_delta_threshold": {
+    "default": "Enable Custom Delta Threshold",
+    "text": ""
+  },
+  "scale.delta_p_title": {
+    "default": "ΔP",
+    "text": ""
+  },
+  "scale.delta_p_desc": {
+    "default": "This can be translated as the sum of the sum of all correct responses after each incorrect response with a minimum difference in P of … in a response vector of an individual test taker.",
+    "text": ""
+  },
+  "scales.delta_position_title": {
+    "default": "ΔPositions",
+    "text": ""
+  },
+  "scales.delta_position_desc": {
+    "default": "This can be translated as the sum of the sum of all correct responses after each incorrect response with a minimum distance in positions of … in a response vector of an individual test taker.",
+    "text": ""
+  },
+  "scales.delta_time_title": {
+    "default": "ΔTime",
+    "text": ""
+  },
+  "scales.delta_time_desc": {
+    "default": "This can be translated as the sum of the sum of all correct responses after each incorrect response where the observed response time is at least … standard deviations away from the expected response time in a response vector of an individual test taker.",
+    "text": ""
+  },
+  "form.enable_delta_thresholds": {
+    "default": "Enable delta thresholds",
+    "text": ""
+  },
+  "hint.sdtidf_title": {
+    "default": "Standard Deviation for difficulty and time",
+    "text": ""
+  },
+  "hint.sdtidf_desc": {
+    "default": "The amount of SD’s the test taker is from average",
+    "text": ""
+  },
+  "messages.confirmDialog.confirm": {
+    "default": "Confirm",
+    "text": ""
+  },
+  "messages.confirmDialog.confirmation": {
+    "default": "Confirmation",
+    "text": ""
+  },
+  "messages.confirmDialog.cancel": {
+    "default": "Cancel",
+    "text": ""
+  },
+  "messages.confirmDialog.title.users": {
+    "default": "Delete Users?",
+    "text": ""
+  },
+  "messages.confirmDialog.title.files": {
+    "default": "Delete Files?",
+    "text": ""
+  },
+  "messages.confirmDialog.content.users": {
+    "default": "Would you like to delete the following users permanently?",
+    "text": ""
+  },
+  "messages.confirmDialog.content.files": {
+    "default": "Would you like to delete the following files permanently?",
+    "text": ""
+  },
+  "button.text.confirmSelectedFiles": {
+    "default": "Confirm selected files",
+    "text": ""
+  },
+  "test.message": {
+    "default": "Test Message Localized",
+    "text": ""
+  },
+  "global.required_empty_message": {
+    "default": "Required field cannot be empty",
+    "text": ""
+  },
+  "actions.view": {
+    "default": "View",
+    "text": ""
+  },
+  "actions.add": {
+    "default": "Add",
+    "text": ""
+  },
+  "actions.new": {
+    "default": "New",
+    "text": ""
+  },
+  "actions.actions": {
+    "default": "Actions",
+    "text": ""
+  },
+  "actions.label.delete": {
+    "default": "Delete",
+    "text": ""
+  },
+  "actions.edit": {
+    "default": "Edit",
+    "text": ""
+  },
+  "selection.permissions": {
+    "default": "Share...",
+    "text": ""
+  },
+  "actions.groups.editGroup": {
+    "default": "Edit: {groupName}",
+    "text": ""
+  },
+  "actions.groups.newGroup": {
+    "default": "New group",
+    "text": ""
+  },
+  "actions.organizations.newOrganization": {
+    "default": "New Organization",
+    "text": ""
+  },
+  "actions.operations.newOperation": {
+    "default": "New Operation",
+    "text": ""
+  },
+  "groups.error.save": {
+    "default": "Group could not be saved",
+    "text": ""
+  },
+  "organization.error.save": {
+    "default": "Organization could not be saved",
+    "text": ""
+  },
+  "operation.error.save": {
+    "default": "Operation could not be saved",
+    "text": ""
+  },
+  "error.groups.groupNameInvalid": {
+    "default": "Group name is invalid",
+    "text": ""
+  },
+  "error.groups.invalidLength50": {
+    "default": "Name cannot exceed 50 characters",
+    "text": ""
+  },
+  "error.groups.groupNameRestrictedWord": {
+    "default": "Name contains restricted word",
+    "text": ""
+  },
+  "error.groups.groupNameRestrictedChar": {
+    "default": "Name contains restricted character",
+    "text": ""
+  },
+  "error.form.requiredMissing": {
+    "default": "Required field(s) are empty",
+    "text": ""
+  },
+  "action.dialog.confirmDelete": {
+    "default": "Are you sure you want to delete: {name}?",
+    "text": ""
+  },
+  "actions.remove": {
+    "default": "Remove",
+    "text": ""
+  },
+  "action.dialog.confirmRemove": {
+    "default": "Are you sure you want to remove: {name}?",
+    "text": ""
+  },
+  "action.dialog.confirm": {
+    "default": "Confirm",
+    "text": ""
+  },
+  "groups.dialog.addAuthority": {
+    "default": "Add group or user to: {name}",
+    "text": ""
+  },
+  "groups.dialog.addOperation": {
+    "default": "Add operation to: {name}",
+    "text": ""
+  },
+  "label.groups": {
+    "default": "Groups",
+    "text": ""
+  },
+  "label.organizations": {
+    "default": "Organizations",
+    "text": ""
+  },
+  "label.operations": {
+    "default": "Operations",
+    "text": ""
+  },
+  "label.users": {
+    "default": "Users",
+    "text": ""
+  },
+  "button.upload": {
+    "default": "Upload",
+    "text": ""
+  },
+  "label.requests_received": {
+    "default": "Requests received",
+    "text": ""
+  },
+  "label.requests_issued": {
+    "default": "Requests issued by me",
+    "text": ""
+  },
+  "label.tasks": {
+    "default": "Tasks",
+    "text": ""
+  },
+  "label.reset": {
+    "default": "Reset",
+    "text": ""
+  },
+  "actions.label.copy": {
+    "default": "Copy",
+    "text": ""
+  },
+  "actions.label.move": {
+    "default": "Move",
+    "text": ""
+  },
+  "dialog.title.new": {
+    "default": "New folder",
+    "text": ""
+  },
+  "dialog.title.selectFolder": {
+    "default": "Select a folder",
+    "text": ""
+  },
+  "dialog.title.selectCopyDestination": {
+    "default": "Copy: Select a destination folder",
+    "text": ""
+  },
+  "dialog.title.selectMoveDestination": {
+    "default": "Move: Select a destination folder",
+    "text": ""
+  },
+  "action.dialog.select": {
+    "default": "Select",
+    "text": ""
+  },
+  "form.title.selectColor": {
+    "default": "Color identifier (optional):",
+    "text": ""
+  },
+  "form.title.selectFile": {
+    "default": "Select existing file",
+    "text": ""
+  },
+  "form.title.uploadFile": {
+    "default": "Upload a file",
+    "text": ""
+  },
+  "form.label.inheritPermissions": {
+    "default": "Inherit Permissions",
+    "text": ""
+  },
+  "form.help.title.inheritPermissionsHelp": {
+    "default": "Share...",
+    "text": ""
+  },
+  "form.help.desc.inheritPermissionsHelp": {
+    "default": "Inherit permissions will include the rules set above this item. Turn this off to ensure your permissions are the only rules applied",
+    "text": ""
+  },
+  "from.permissions.contributor": {
+    "default": "Contributor",
+    "text": ""
+  },
+  "from.permissions.consumer": {
+    "default": "Read",
+    "text": ""
+  },
+  "from.permissions.collaborator": {
+    "default": "Read/Write",
+    "text": ""
+  },
+  "from.permissions.coordinator": {
+    "default": "Administrator",
+    "text": ""
+  },
+  "from.permissions.commentator": {
+    "default": "Read",
+    "text": ""
+  },
+  "from.permissions.manager": {
+    "default": "Manager",
+    "text": ""
+  },
+  "from.permissions.editor": {
+    "default": "Editor",
+    "text": ""
+  },
+  "from.permissions.secureconsumer": {
+    "default": "Read (Secured)",
+    "text": ""
+  },
+  "form.request.documentsToReview": {
+    "default": "Documents to Review",
+    "text": ""
+  },
+  "form.request.new": {
+    "default": "Issue New Document Review Request",
+    "text": ""
+  },
+  "form.request.nameYourRequest": {
+    "default": "Name your Document Review Request",
+    "text": ""
+  },
+  "form.request.requestCatagory": {
+    "default": "Request or Document(s) catagory",
+    "text": ""
+  },
+  "header.step": {
+    "default": "Step {step}",
+    "text": ""
+  },
+  "label.catagory": {
+    "default": "Catagory",
+    "text": ""
+  },
+  "form.request.selectAssignedOperation": {
+    "default": "Select the Assigning Operation(s)",
+    "text": ""
+  },
+  "form.request.selectOrgOps": {
+    "default": "Select your organization(s) & operation(s) issuing this requirement",
+    "text": ""
+  },
+  "form.label.myBusiness": {
+    "default": "My Business",
+    "text": ""
+  },
+  "form.label.myOperation": {
+    "default": "My Operation",
+    "text": ""
+  },
+  "form.request.selectRecipients": {
+    "default": "Select Recipient(s)",
+    "text": ""
+  },
+  "form.request.selectOneOrMoreRecipients": {
+    "default": "Select one or more recipients for the request(s)",
+    "text": ""
+  },
+  "form.label.searchUsersAndOrgs": {
+    "default": "Seach Users and Organizations",
+    "text": ""
+  },
+  "header.schedule": {
+    "default": "Schedule",
+    "text": ""
+  },
+  "form.label.selectDueDate": {
+    "default": "Select the due date you want to request to be acknowledged and be implemented",
+    "text": ""
+  },
+  "form.label.responseDeadline": {
+    "default": "Deadline for Response or Acknowledgement",
+    "text": ""
+  },
+  "stepper.label.fieldsFilled": {
+    "default": "Filled out: {count} fields",
+    "text": ""
+  },
+  "form.title.requestTitle": {
+    "default": "Title your request",
+    "text": ""
+  },
+  "form.title.requestRecipients": {
+    "default": "Add recipients",
+    "text": ""
+  },
+  "form.title.requestDueDate": {
+    "default": "Set due date",
+    "text": ""
+  },
+  "field.label.recipients": {
+    "default": "Recipients",
+    "text": ""
+  },
+  "form.label.youAdded": {
+    "default": "You've added {count} authorities",
+    "text": ""
+  },
+  "form.label.youAddedLabel": {
+    "default": "You've added {count}",
+    "text": ""
+  },
+  "form.label.groupsLoading": {
+    "default": "Groups Loading",
+    "text": ""
+  },
+  "form.label.urgent": {
+    "default": "Urgent",
+    "text": ""
+  },
+  "form.label.allDay": {
+    "default": "All Day",
+    "text": ""
+  },
+  "label.markAs": {
+    "default": "Mark as",
+    "text": ""
+  },
+  "form.title.requestIssuer": {
+    "default": "Issuing business or Operation",
+    "text": ""
+  },
+  "form.title.requestAdditionalInfo": {
+    "default": "Additional Information",
+    "text": ""
+  },
+  "form.title.requestAdditionalInfoTitle": {
+    "default": "Add additional information",
+    "text": ""
+  },
+  "form.title.requestReview": {
+    "default": "Review",
+    "text": ""
+  },
+  "messages.selector.month": {
+    "default": "Month",
+    "text": ""
+  },
+  "messages.selector.quarter": {
+    "default": "Quarter",
+    "text": ""
+  },
+  "messages.selector.year": {
+    "default": "Year",
+    "text": ""
+  },
+  "messages.selector.range": {
+    "default": "Selected Range",
+    "text": ""
+  },
+  "messages.selector.accept": {
+    "default": "Accept",
+    "text": ""
+  },
+  "messages.form.status": {
+    "default": "Status",
+    "text": ""
+  },
+  "messages.status.pending": {
+    "default": "Pending",
+    "text": ""
+  },
+  "messages.status.inProgress": {
+    "default": "In Progress",
+    "text": ""
+  },
+  "messages.status.compliant": {
+    "default": "Compliant",
+    "text": ""
+  },
+  "messages.status.notCompliant": {
+    "default": "Not Compliant",
+    "text": ""
+  },
+  "messages.status.na": {
+    "default": "Not Applicable",
+    "text": ""
+  },
+  "messages.status.overdue": {
+    "default": "Overdue",
+    "text": ""
+  },
+  "picker.dialog_title": {
+    "default": "Choose Documents To Add",
+    "text": ""
+  },
+  "picker.up_icon": {
+    "default": "Up icon",
+    "text": ""
+  },
+  "picker.empty_folder": {
+    "default": "Empty folder",
+    "text": ""
+  },
+  "picker.no_reference_given": {
+    "default": "No reference given",
+    "text": ""
+  },
+  "picker.none_selected": {
+    "default": "No items selected.",
+    "text": ""
+  },
+  "datalist.issuedTasks.issuedTitle": {
+    "default": "Document Reviews Assigned By Me",
+    "text": ""
+  },
+  "datalist.issuedTasks.noDateAssigned": {
+    "default": "There was no {dateText} assigned",
+    "text": ""
+  },
+  "form.label.issuers": {
+    "default": "Issuers",
+    "text": ""
+  },
+  "form.label.operation": {
+    "default": "Operation",
+    "text": ""
+  },
+  "form.label.organization": {
+    "default": "Organization",
+    "text": ""
+  },
+  "form.label.searchRecipients": {
+    "default": "Search Recipients",
+    "text": ""
+  },
+  "form.label.searchIssuers": {
+    "default": "Search Issuers",
+    "text": ""
+  },
+  "form.label.searchOrganization": {
+    "default": "Search for an Organization",
+    "text": ""
+  },
+  "dialog.action.select": {
+    "default": "Select",
+    "text": ""
+  },
+  "form.comment.addComment": {
+    "default": "Add Comment",
+    "text": ""
+  },
+  "layout.comment.commentHeader": {
+    "default": "Comments",
+    "text": ""
+  },
+  "button.label.open": {
+    "default": "Browse",
+    "text": ""
+  },
+  "form.title.requestDocument": {
+    "default": "Add a Document",
+    "text": ""
+  },
+  "form.title.allStepsTitle": {
+    "default": "All steps to complete",
+    "text": ""
+  },
+  "table.label.emptyDropFiles": {
+    "default": "Drop files here",
+    "text": ""
+  },
+  "table.label.emptyNoFiles": {
+    "default": "Sorry, no matching records found",
+    "text": ""
+  },
+  "form.label.filesSelected": {
+    "default": "You've added {count} files",
+    "text": ""
+  },
+  "action.button.addComment": {
+    "default": "Add Comment",
+    "text": ""
+  },
+  "action.button.uploadNew": {
+    "default": "Upload new",
+    "text": ""
+  },
+  "form.label.pageaccess": {
+    "default": "Page Access",
+    "text": ""
+  },
+  "popup.link.viewProfile": {
+    "default": "View Profile",
+    "text": ""
+  },
+  "popup.link.companyProfile": {
+    "default": "Company Profile",
+    "text": ""
+  },
+  "popup.link.sendMessage": {
+    "default": "Send Message",
+    "text": ""
+  },
+  "popup.message.sentBy": {
+    "default": "Sender {name}",
+    "text": ""
+  },
+  "popup.message.lastEdit": {
+    "default": "Last edit",
+    "text": ""
+  },
+  "header.documentProperties": {
+    "default": "Document properties",
+    "text": ""
+  },
+  "header.documentDetails": {
+    "default": "Document details",
+    "text": ""
+  },
+  "label.title.creator": {
+    "default": "Creator",
+    "text": ""
+  },
+  "label.title.created": {
+    "default": "Created",
+    "text": ""
+  },
+  "label.title.modifier": {
+    "default": "Modifer",
+    "text": ""
+  },
+  "label.title.modified": {
+    "default": "Modified",
+    "text": ""
+  },
+  "label.business": {
+    "default": "Business",
+    "text": ""
+  },
+  "label.personal": {
+    "default": "Personal",
+    "text": ""
+  },
+  "label.shared": {
+    "default": "Shared",
+    "text": ""
+  },
+  "table.header.modifer": {
+    "default": "Modifier",
+    "text": ""
+  },
+  "table.header.modified": {
+    "default": "Modified",
+    "text": ""
+  },
+  "table.header.size": {
+    "default": "File Size",
+    "text": ""
+  },
+  "table.header.assignedTo": {
+    "default": "Assigned To",
+    "text": ""
+  },
+  "table.header.assignedBy": {
+    "default": "Sender",
+    "text": ""
+  },
+  "table.header.label": {
+    "default": "Progress",
+    "text": ""
+  },
+  "table.header.submitted": {
+    "default": "Submitted",
+    "text": ""
+  },
+  "table.header.deadline": {
+    "default": "Deadline",
+    "text": ""
+  },
+  "message.title": {
+    "default": "Title",
+    "text": ""
+  },
+  "table.header.dueDate": {
+    "default": "Due date",
+    "text": ""
+  },
+  "tabloe.header.collaborators": {
+    "default": "Collaborators",
+    "text": ""
+  },
+  "tabloe.header.completion": {
+    "default": "Documents",
+    "text": ""
+  },
+  "feild.label.specification": {
+    "default": "Specification",
+    "text": ""
+  },
+  "field.label.documentType": {
+    "default": "Document Type",
+    "text": ""
+  },
+  "selection.option.optionSpecification": {
+    "default": "Specification",
+    "text": ""
+  },
+  "list.noOptionsAvailable": {
+    "default": "No Options Available",
+    "text": ""
+  },
+  "field.label.statusList": {
+    "default": "Status List",
+    "text": ""
+  },
+  "field.label.sort": {
+    "default": "Sort",
+    "text": ""
+  },
+  "field.label.sortBy": {
+    "default": "Sort By",
+    "text": ""
+  },
+  "version.history.requiredDocument": {
+    "default": "Please Add a Document",
+    "text": ""
+  },
+  "version.history.historyTitle": {
+    "default": "History",
+    "text": ""
+  },
+  "label.date": {
+    "default": "Date",
+    "text": ""
+  },
+  "menu.label.noPermissions": {
+    "default": "Not Allowed",
+    "text": ""
+  },
+  "menu.personal.profile": {
+    "default": "Personal Profile",
+    "text": ""
+  },
+  "menu.change.password": {
+    "default": "Change Password",
+    "text": ""
+  },
+  "menu.address.book": {
+    "default": "My Address Book",
+    "text": ""
+  },
+  "menu.logout": {
+    "default": "Logout",
+    "text": ""
+  },
+  "document.workflow.acknowledgeButton": {
+    "default": "Yes, I am compliant",
+    "text": ""
+  },
+  "document.workflow.acknowledgeConfirm": {
+    "default": "You are about to accept that you ARE compliant with the current document. Continue?",
+    "text": ""
+  },
+  "document.workflow.askForRevision": {
+    "default": "Ask for a revision",
+    "text": ""
+  },
+  "document.workflow.askForRevisionConfirm": {
+    "default": "You are about to request a revision of the current document. Continue?",
+    "text": ""
+  },
+  "document.workflow.notCompliantConfirm": {
+    "default": "You have answered that your are NOT compliant with the current document. Continue?",
+    "text": ""
+  },
+  "document.workflow.notCompliant": {
+    "default": "No, I am not compliant",
+    "text": ""
+  },
+  "document.workflow.notApplicable": {
+    "default": "Not Applicable",
+    "text": ""
+  },
+  "document.workflow.notApplicableConfirm": {
+    "default": "The other options are not applicable to the current document. Continue?",
+    "text": ""
+  },
+  "document.workflow.taskDone": {
+    "default": "Task done",
+    "text": ""
+  },
+  "document.workflow.waitingForRevision": {
+    "default": "Waiting on revision",
+    "text": ""
+  },
+  "document.workflow.nextDocument": {
+    "default": "Go to next document",
+    "text": ""
+  },
+  "document.workflow.buttonOr": {
+    "default": "or",
+    "text": ""
+  },
+  "document.workflow.workflowDetails": {
+    "default": "Workflow details",
+    "text": ""
+  },
+  "document.workflow.workflowDescription": {
+    "default": "Description",
+    "text": ""
+  },
+  "document.workflow.workflowAdditionalInfo": {
+    "default": "Additional Information",
+    "text": ""
+  },
+  "document.workflow.workflowType": {
+    "default": "Type",
+    "text": ""
+  },
+  "document.workflow.workflowAssigned": {
+    "default": "Assigned",
+    "text": ""
+  },
+  "document.workflow.workflowDue": {
+    "default": "Due",
+    "text": ""
+  },
+  "dialog.workflow.workflowsComplete": {
+    "default": "Request Tasks Complete",
+    "text": ""
+  },
+  "dialog.workflow.taskPackageComplete": {
+    "default": "All the requests in this package have been completed.",
+    "text": ""
+  },
+  "dialog.workflow.tasksCompleteClose": {
+    "default": "Close",
+    "text": ""
+  },
+  "document.workflow.issuingDetails": {
+    "default": "Issuing Organization",
+    "text": ""
+  },
+  "document.workflow.lastEdit": {
+    "default": "Last edit was on {date} by {user}",
+    "text": ""
+  },
+  "document.category.all": {
+    "default": "All Documents",
+    "text": ""
+  },
+  "document.category.folder": {
+    "default": "This folder",
+    "text": ""
+  },
+  "placeholder.search.group": {
+    "default": "Search for an organization or user group...",
+    "text": ""
+  },
+  "placeholder.search.document": {
+    "default": "Search documents by their filename...",
+    "text": ""
+  },
+  "placeholder.search.tasks": {
+    "default": "Search for a task in your list...",
+    "text": ""
+  },
+  "placeholder.search.user": {
+    "default": "Search for a user...",
+    "text": ""
+  },
+  "filter.modifier": {
+    "default": "Author/Editor",
+    "text": ""
+  },
+  "filter.created": {
+    "default": "Date",
+    "text": ""
+  },
+  "label.companyTrustScore": {
+    "default": "Company trust score",
+    "text": ""
+  },
+  "messages.button.resetDate": {
+    "default": "Reset",
+    "text": ""
+  },
+  "links.home": {
+    "default": "Home",
+    "text": ""
+  },
+  "table.label.rowsPerPage": {
+    "default": "Rows per page:",
+    "text": ""
+  },
+  "table.label.selectedRows": {
+    "default": "row(s) selected",
+    "text": ""
+  },
+  "table.title.requestDocuments": {
+    "default": "Requests status report",
+    "text": ""
+  },
+  "table.header.requestDocuments": {
+    "default": "Request Documents",
+    "text": ""
+  },
+  "table.header.initiator": {
+    "default": "Initiator",
+    "text": ""
+  },
+  "table.header.receiver": {
+    "default": "Receiver",
+    "text": ""
+  },
+  "table.header.requestStatus": {
+    "default": "Status",
+    "text": ""
+  },
+  "task.status.pending": {
+    "default": "Pending",
+    "text": ""
+  },
+  "task.status.notCompliant": {
+    "default": "Not Compliant",
+    "text": ""
+  },
+  "task.status.inprogress": {
+    "default": "In Progress",
+    "text": ""
+  },
+  "task.status.compliant": {
+    "default": "Compliant",
+    "text": ""
+  },
+  "task.status.na": {
+    "default": "Not Applicable",
+    "text": ""
+  },
+  "task.status.overdue": {
+    "default": "Overdue",
+    "text": ""
+  },
+  "task.progress.notStarted": {
+    "default": "Not Yet Started",
+    "text": ""
+  },
+  "task.progress.responded": {
+    "default": "Responded",
+    "text": ""
+  },
+  "treeview.label.files": {
+    "default": "Files",
+    "text": ""
+  },
+  "treeview.label.folders": {
+    "default": "Folders",
+    "text": ""
+  },
+  "title.statistics": {
+    "default": "Statistics",
+    "text": ""
+  },
+  "messages.error.form_message": {
+    "default": "There was a problem with your form:",
+    "text": ""
+  },
+  "chart.label": {
+    "default": "Issued",
+    "text": ""
+  },
+  "label.org.buyer": {
+    "default": "Buyer",
+    "text": ""
+  },
+  "label.orglproducts": {
+    "default": "{value} Product(s)",
+    "text": ""
+  },
+  "label.na": {
+    "default": "N/A",
+    "text": ""
+  },
+  "dialog.title.newVersion": {
+    "default": "New Version",
+    "text": ""
+  },
+  "field.title.modifyImage": {
+    "default": "Modify the image",
+    "text": ""
+  },
+  "label.class.aaPlus": {
+    "default": "AA+",
+    "text": ""
+  },
+  "page.title.peopleManager": {
+    "default": "People Manager",
+    "text": ""
+  },
+  "message.groupAnModify": {
+    "default": "This section allows you to view and modify Users and Groups in the System",
+    "text": ""
+  },
+  "button.label.export": {
+    "default": "Export",
+    "text": ""
+  },
+  "table.footer.pageOf": {
+    "default": "Page {index} of {total}",
+    "text": ""
+  },
+  "page.title.welcomeBack": {
+    "default": "Welcome back! Sign-in below to access the trust platform",
+    "text": ""
+  },
+  "page.title.forgotPassword": {
+    "default": "Did you forget your password?",
+    "text": ""
+  },
+  "page.signign.label.signIn": {
+    "default": "Sign In",
+    "text": ""
+  },
+  "label.ok": {
+    "default": "OK",
+    "text": ""
+  },
+  "label.uploading": {
+    "default": "Uploading",
+    "text": ""
+  },
+  "error.locked_title": {
+    "default": "Document is locked",
+    "text": ""
+  },
+  "error.locked_message": {
+    "default": "Sorry, this document is locked for secure viewing only, please use the secure browser provided. If you do not have the secure browser click the link below to download it.",
+    "text": ""
+  },
+  "button.download_browser": {
+    "default": "Download Browser",
+    "text": ""
+  },
+  "global.select_collection": {
+    "default": "Select Collection",
+    "text": ""
+  },
+  "global.select_section": {
+    "default": "Select Section",
+    "text": ""
+  },
+  "global.no_custom_fields": {
+    "default": "No custom fields found. Try selecting another collection",
+    "text": ""
+  },
+  "global.properties": {
+    "default": "Properties",
+    "text": ""
+  },
+  "global.available_docs_message": {
+    "default": "Choose a document and make it available to your candidates",
+    "text": ""
+  },
+  "global.available_docs_workflow": {
+    "default": "Choose a document and make it available to your workflow",
+    "text": ""
+  },
+  "global.source_document": {
+    "default": "Source Document",
+    "text": ""
+  },
+  "global.previous": {
+    "default": "Previous",
+    "text": ""
+  },
+  "global.next": {
+    "default": "Next",
+    "text": ""
+  },
+  "global.new_password_label": {
+    "default": "NEW PASSWORD*",
+    "text": ""
+  },
+  "global.current_password_label": {
+    "default": "CURRENT PASSWORD*",
+    "text": ""
+  },
+  "global.old_password_wrong": {
+    "default": "Wrong old password",
+    "text": ""
+  },
+  "global.edit_your_profile": {
+    "default": "Edit your profile",
+    "text": ""
+  },
+  "global.welcome_user": {
+    "default": "Welcome, {user}",
+    "text": ""
+  },
+  "global.delete_folder_title": {
+    "default": "Delete: {folder}?",
+    "text": ""
+  },
+  "global.new_folder_title": {
+    "default": "New Folder",
+    "text": ""
+  },
+  "global.new_folder_message": {
+    "default": "Let's get some details about your new folder",
+    "text": ""
+  },
+  "global.delete_folder_message": {
+    "default": "You are about to delete this folder. Are you sure you want to do that?",
+    "text": ""
+  },
+  "global.edit_folder_title": {
+    "default": "Edit Folder",
+    "text": ""
+  },
+  "global.delete_item_title": {
+    "default": "Delete: {name}?",
+    "text": ""
+  },
+  "global.delete_item_message": {
+    "default": "You are about to delete this item. Are you sure you want to do that?",
+    "text": ""
+  },
+  "global.delete_items_message": {
+    "default": "You are about to delete these items. Are you sure you want to do that?",
+    "text": ""
+  },
+  "global.delete_browser_message": {
+    "default": "You are about to delete this browser. Are you sure you want to do that?",
+    "text": ""
+  },
+  "global.edit_properties": {
+    "default": "Edit properties",
+    "text": ""
+  },
+  "global.download": {
+    "default": "Download",
+    "text": ""
+  },
+  "global.edit_browser": {
+    "default": "Edit browser",
+    "text": ""
+  },
+  "global.publish_browser": {
+    "default": "Publish browser",
+    "text": ""
+  },
+  "global.copy_item": {
+    "default": "Choose a destination where this item should be copied to.",
+    "text": ""
+  },
+  "global.copy_to": {
+    "default": "Copy to ...",
+    "text": ""
+  },
+  "global.move_to": {
+    "default": "Move to ...",
+    "text": ""
+  },
+  "global.move_item": {
+    "default": "Select a folder to move this item to.",
+    "text": ""
+  },
+  "global.edit_item": {
+    "default": "Edit Item",
+    "text": ""
+  },
+  "global.select_item": {
+    "default": "Edit Item",
+    "text": ""
+  },
+  "global.delete_item": {
+    "default": "Delete Item",
+    "text": ""
+  },
+  "global.advanced_search": {
+    "default": "Advanced Search",
+    "text": ""
+  },
+  "global.content_two": {
+    "default": "Content Two",
+    "text": ""
+  },
+  "global.add_user_or_group": {
+    "default": "Add user/group",
+    "text": ""
+  },
+  "global.add_user": {
+    "default": "Add user",
+    "text": ""
+  },
+  "global.add_group": {
+    "default": "Add group",
+    "text": ""
+  },
+  "global.my_dashboard": {
+    "default": "Live Exams",
+    "text": ""
+  },
+  "global.collections": {
+    "default": "Collections",
+    "text": ""
+  },
+  "global.trashcan": {
+    "default": "Trashcan",
+    "text": ""
+  },
+  "global.people": {
+    "default": "People",
+    "text": ""
+  },
+  "global.browsers": {
+    "default": "Browsers",
+    "text": ""
+  },
+  "global.browsers_manager": {
+    "default": "Browsers Manager",
+    "text": ""
+  },
+  "global.add_answer": {
+    "default": "Add answer",
+    "text": ""
+  },
+  "global.eg_placeholder": {
+    "default": "e.g.",
+    "text": ""
+  },
+  "global.propfile": {
+    "default": "Profile",
+    "text": ""
+  },
+  "global.sign_out": {
+    "default": "Sign Out",
+    "text": ""
+  },
+  "global.no_reference_given": {
+    "default": "No reference given",
+    "text": ""
+  },
+  "global.empty_folder": {
+    "default": "Empty folder",
+    "text": ""
+  },
+  "global.up_icon": {
+    "default": "Up icon",
+    "text": ""
+  },
+  "global.no_document": {
+    "default": "No document assigned",
+    "text": ""
+  },
+  "global.no_authority": {
+    "default": "No authority assigned",
+    "text": ""
+  },
+  "global.freeze_item": {
+    "default": "Freeze Item",
+    "text": ""
+  },
+  "global.unfreeze_item": {
+    "default": "Unfreeze Item",
+    "text": ""
+  },
+  "global.freeze_item_message": {
+    "default": "You are about to freeze this item. Are you sure you want to do that?",
+    "text": ""
+  },
+  "global.delete_comment": {
+    "default": "Delete comment ?",
+    "text": ""
+  },
+  "global.delete_comment_message": {
+    "default": "Are you sure you want to delete this comment?",
+    "text": ""
+  },
+  "global.create_folder": {
+    "default": "Create folder",
+    "text": ""
+  },
+  "global.edit_name": {
+    "default": "Edit name",
+    "text": ""
+  },
+  "global.edit_permission": {
+    "default": "Edit permission",
+    "text": ""
+  },
+  "global.delete_folder": {
+    "default": "Delete folder",
+    "text": ""
+  },
+  "global.process_start": {
+    "default": "Select a process to start",
+    "text": ""
+  },
+  "global.no_permission": {
+    "default": "No permissions are set. Access is open for viewing",
+    "text": ""
+  },
+  "global.permissions_title": {
+    "default": "{value} Permissions",
+    "text": ""
+  },
+  "dashboard.title": {
+    "default": "Live Exams",
+    "text": ""
+  },
+  "dashboard.helper": {
+    "default": "Monitor live examinations. Availability of active exams are based on your security role.",
+    "text": ""
+  },
+  "dashboard.doc_title": {
+    "default": "Live Exams - Trifork ExamEditor",
+    "text": ""
+  },
+  "dashboard.schedule_empty": {
+    "default": "No active schedules available at this time",
+    "text": ""
+  },
+  "dashboard.monitor": {
+    "default": "Monitor",
+    "text": ""
+  },
+  "dashboard.today": {
+    "default": "Active Schedules",
+    "text": ""
+  },
+  "error.missing_page_title": {
+    "default": "Oops!",
+    "text": ""
+  },
+  "error.missing_page_message": {
+    "default": "You seem to have found a page that we didn&#39;t build. Very strange...",
+    "text": ""
+  },
+  "error.no_access_title": {
+    "default": "Page has been restricted!",
+    "text": ""
+  },
+  "error.no_access_message": {
+    "default": "Oops, you dont have access to that page. Please talk with your administrator if you require access.",
+    "text": ""
+  },
+  "monitor.title": {
+    "default": "Student Monitor",
+    "text": ""
+  },
+  "monitor.helper": {
+    "default": "DO NOT NEED",
+    "text": ""
+  },
+  "monitor.doc_title": {
+    "default": "Student Monitor - Trifork ExamEditor",
+    "text": ""
+  },
+  "monitor.session_empty": {
+    "default": "No active sessions available at this time",
+    "text": ""
+  },
+  "detail.dob": {
+    "default": "D.O.B",
+    "text": ""
+  },
+  "detail.personalidd": {
+    "default": "Personal ID",
+    "text": ""
+  },
+  "detail.organization": {
+    "default": "Organization",
+    "text": ""
+  },
+  "detail.subject": {
+    "default": "Subject",
+    "text": ""
+  },
+  "detail.language": {
+    "default": "Language",
+    "text": ""
+  },
+  "detail.brin": {
+    "default": "BRIN",
+    "text": ""
+  },
+  "detail.extraTime": {
+    "default": "Extra Time",
+    "text": ""
+  },
+  "detail.retaker": {
+    "default": "Retaker?",
+    "text": ""
+  },
+  "detail.optional": {
+    "default": "Optional",
+    "text": ""
+  },
+  "detail.metadata": {
+    "default": "Student Metadata",
+    "text": ""
+  },
+  "session.pause": {
+    "default": "Pause",
+    "text": ""
+  },
+  "session.resume": {
+    "default": "Resume",
+    "text": ""
+  },
+  "session.abort": {
+    "default": "Abort",
+    "text": ""
+  },
+  "session.restart": {
+    "default": "Restart",
+    "text": ""
+  },
+  "session.comment": {
+    "default": "Comment",
+    "text": ""
+  },
+  "session.pause_all": {
+    "default": "Pause All",
+    "text": ""
+  },
+  "session.resume_all": {
+    "default": "Resume All",
+    "text": ""
+  },
+  "session.abort_all": {
+    "default": "Abort All",
+    "text": ""
+  },
+  "session.restart_all": {
+    "default": "Restart All",
+    "text": ""
+  },
+  "session.comment_all": {
+    "default": "Comment",
+    "text": ""
+  },
+  "session.all": {
+    "default": "ALL",
+    "text": ""
+  },
+  "session.comment_title": {
+    "default": "Comments",
+    "text": ""
+  },
+  "session.comment_desc": {
+    "default": "Add comments to this student session",
+    "text": ""
+  },
+  "session.comment_title_all": {
+    "default": "Group Comments",
+    "text": ""
+  },
+  "session.comment_desc_all": {
+    "default": "Add comments to the entire class. These comments will be made available on the schedule",
+    "text": ""
+  },
+  "session.abort_modal_title": {
+    "default": "Abort: {name}?",
+    "text": ""
+  },
+  "session.abort_modal_confirm": {
+    "default": "Are you sure you want to abort. This cannot be undone!",
+    "text": ""
+  },
+  "session.restart_modal_title": {
+    "default": "Restart: {name}?",
+    "text": ""
+  },
+  "session.restart_modal_confirm": {
+    "default": "Are you sure you want to restart. This cannot be undone!",
+    "text": ""
+  },
+  "session.all_paused_message": {
+    "default": "All sessions have been paused. Click resume button in the main nav to continue.",
+    "text": ""
+  },
+  "session.all_aborted_message": {
+    "default": "This examination has been aborted. No more actions are available.",
+    "text": ""
+  },
+  "groups.page_access": {
+    "default": "Page Access",
+    "text": ""
+  },
+  "groups.no_groups": {
+    "default": "No groups found",
+    "text": ""
+  },
+  "groups.path": {
+    "default": "Path",
+    "text": ""
+  },
+  "users.new_user": {
+    "default": "NEW USER",
+    "text": ""
+  },
+  "users.no_users": {
+    "default": "No users found",
+    "text": ""
+  },
+  "people.title": {
+    "default": "People Manager",
+    "text": ""
+  },
+  "people.system_users": {
+    "default": "System Users",
+    "text": ""
+  },
+  "people.system_groups": {
+    "default": "System Groups",
+    "text": ""
+  },
+  "people.helper": {
+    "default": "This section allows you to view and modify Users and Groups in the system.",
+    "text": ""
+  },
+  "people.document_title": {
+    "default": "People Manager - Xquiry Assessment Data Forensics",
+    "text": ""
+  },
+  "users.delete_confirm_message": {
+    "default": "You are about to delete this user. Are you sure you want to do that?",
+    "text": ""
+  },
+  "users.delete_confirm_title": {
+    "default": "Delete: {user}?",
+    "text": ""
+  },
+  "users.delete_user": {
+    "default": "Delete User",
+    "text": ""
+  },
+  "users.edit_user": {
+    "default": "Edit User",
+    "text": ""
+  },
+  "users.email": {
+    "default": "Email",
+    "text": ""
+  },
+  "users.job_title": {
+    "default": "Job Title",
+    "text": ""
+  },
+  "users.phone": {
+    "default": "Phone",
+    "text": ""
+  },
+  "users.user_name": {
+    "default": "User Name",
+    "text": ""
+  },
+  "users.organization": {
+    "default": "Organization",
+    "text": ""
+  },
+  "users.enter_person_name": {
+    "default": "Enter person name...",
+    "text": ""
+  },
+  "users.delete_selected_confirm_title": {
+    "default": "Deleting {count} items?",
+    "text": ""
+  },
+  "users.delete_selected_confirm_message": {
+    "default": "You are about to delete selected users. Are you sure you want to do that?",
+    "text": ""
+  },
+  "groups.enter_group_name": {
+    "default": "Enter group name...",
+    "text": ""
+  },
+  "users.update_title": {
+    "default": "Update",
+    "text": ""
+  },
+  "users.create_title": {
+    "default": "New",
+    "text": ""
+  },
+  "users.create_description": {
+    "default": "User Profile",
+    "text": ""
+  },
+  "users.heading": {
+    "default": "Existing Users",
+    "text": ""
+  },
+  "groups.edit_title": {
+    "default": "Edit group",
+    "text": ""
+  },
+  "groups.edit_description": {
+    "default": "Change group details",
+    "text": ""
+  },
+  "groups.create_title": {
+    "default": "New Group",
+    "text": ""
+  },
+  "groups.create_description": {
+    "default": "Create new group",
+    "text": ""
+  },
+  "groups.heading": {
+    "default": "Existing Groups",
+    "text": ""
+  },
+  "groups.delete_confitm_title": {
+    "default": "Delete {item}?",
+    "text": ""
+  },
+  "groups.delete_confitm_message": {
+    "default": "You are about to delete this group. Are you sure you want to do that?",
+    "text": ""
+  },
+  "groups.browse": {
+    "default": "Browse",
+    "text": ""
+  },
+  "groups.add_existing_title": {
+    "default": "Add existing group or user",
+    "text": ""
+  },
+  "groups.delete_from_system_title": {
+    "default": "Delete \"{name}\" from the system?",
+    "text": ""
+  },
+  "groups.delete_from_parent_title": {
+    "default": "Remove \"{name}\" from parent \"{parent}\"?",
+    "text": ""
+  },
+  "groups.delete_from_parent_message": {
+    "default": "You are about to remove this item from the group. Are you sure you want to do that?",
+    "text": ""
+  },
+  "groups.delete_title": {
+    "default": "Delete group",
+    "text": ""
+  },
+  "groups.remove_from_group_title": {
+    "default": "Remove from group",
+    "text": ""
+  },
+  "groups.add_new": {
+    "default": "Add new group",
+    "text": ""
+  },
+  "users.user_name_label": {
+    "default": "USERNAME*",
+    "text": ""
+  },
+  "users.user_name_placeholder": {
+    "default": "e.g. admin",
+    "text": ""
+  },
+  "users.last_name_placeholder": {
+    "default": "e.g. Smith",
+    "text": ""
+  },
+  "users.email_placeholder": {
+    "default": "e.g. mrwriter@company.com",
+    "text": ""
+  },
+  "users.phone_placeholder": {
+    "default": "e.g. 780-023-2342",
+    "text": ""
+  },
+  "users.job_title_placeholder": {
+    "default": "e.g. Manager",
+    "text": ""
+  },
+  "users.first_name_placeholder": {
+    "default": "e.g. John",
+    "text": ""
+  },
+  "users.first_name_label": {
+    "default": "FIRST NAME*",
+    "text": ""
+  },
+  "users.last_name_label": {
+    "default": "LAST NAME",
+    "text": ""
+  },
+  "users.email_label": {
+    "default": "EMAIL*",
+    "text": ""
+  },
+  "users.password_label": {
+    "default": "PASSWORD*",
+    "text": ""
+  },
+  "users.verify_password_label": {
+    "default": "VERIFY PASSWORD*",
+    "text": ""
+  },
+  "users.organization_label": {
+    "default": "ORGANIZATION",
+    "text": ""
+  },
+  "users.organization_placeholder": {
+    "default": "e.g. Your company name",
+    "text": ""
+  },
+  "users.groups_label": {
+    "default": "GROUPS",
+    "text": ""
+  },
+  "users.info_label": {
+    "default": "INFOS",
+    "text": ""
+  },
+  "users.credentials_label": {
+    "default": "CREDENTIALS",
+    "text": ""
+  },
+  "users.job_title_label": {
+    "default": "JOB TITLE",
+    "text": ""
+  },
+  "users.contacts_label": {
+    "default": "CONTACTS",
+    "text": ""
+  },
+  "users.phone_label": {
+    "default": "PHONE",
+    "text": ""
+  },
+  "groups.authority_error": {
+    "default": "{authorityType} cannot be added.",
+    "text": ""
+  },
+  "groups.display_name_invalid": {
+    "default": "Display Name is invalid",
+    "text": ""
+  },
+  "groups.groups_cannot_be_saved": {
+    "default": "Group cannot be saved.",
+    "text": ""
+  },
+  "groups.display_name_label": {
+    "default": "Display Name",
+    "text": ""
+  },
+  "groups.collections_label": {
+    "default": "COLLECTIONS",
+    "text": ""
+  },
+  "groups.trash_label": {
+    "default": "TRASH",
+    "text": ""
+  },
+  "groups.exams_label": {
+    "default": "EXAMS",
+    "text": ""
+  },
+  "groups.configuration_label": {
+    "default": "CONFIGURATION",
+    "text": ""
+  },
+  "groups.dashboard_label": {
+    "default": "DASHBOARD",
+    "text": ""
+  },
+  "groups.people_label": {
+    "default": "PEOPLE",
+    "text": ""
+  },
+  "users.last_name_invalid": {
+    "default": "Last name cannot have special characters",
+    "text": ""
+  },
+  "users.first_name_invalid": {
+    "default": "First name cannot have special characters",
+    "text": ""
+  },
+  "signing.sign_in": {
+    "default": "Log In",
+    "text": ""
+  },
+  "signing.username": {
+    "default": "username",
+    "text": ""
+  },
+  "signing.password": {
+    "default": "password",
+    "text": ""
+  },
+  "signing.keep_signed": {
+    "default": "Keep me signed in?",
+    "text": ""
+  },
+  "signing.session_expired_message": {
+    "default": "Your session has expired",
+    "text": ""
+  },
+  "signing.enter_credentials_message": {
+    "default": "Enter username and password",
+    "text": ""
+  },
+  "signing.invalid_credentials_message": {
+    "default": "Invalid username or password",
+    "text": ""
+  },
+  "signing.show": {
+    "default": "Show",
+    "text": ""
+  },
+  "signing.hide": {
+    "default": "Hide",
+    "text": ""
+  },
+  "signing.rights": {
+    "default": "@{year} All Rights Reserved. Trifork® is a registered trademark.",
+    "text": ""
+  }
+}

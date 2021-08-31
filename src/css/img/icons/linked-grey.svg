@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/linked-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.8356362,5.74952801 L3.83563616,13.749528 C3.42285339,14.116446 3.38567266,14.7485184 3.75259068,15.1613012 C4.1195087,15.5740839 4.75158107,15.6112647 5.16436384,15.2443466 L14.1643638,7.24434665 C14.5771466,6.87742863 14.6143273,6.24535626 14.2474093,5.83257349 C13.8804913,5.41979072 13.2484189,5.38260999 12.8356362,5.74952801 L12.8356362,5.74952801 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="13.0000214" height="12.0000214">
+            <rect x="2.49998929" y="4.49692662" width="13.0000214" height="12.0000214" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Exam-Editor---Blueprint" transform="translate(-330.000000, -507.000000)">
+            <g id="Group-19" transform="translate(114.000000, 352.000000)">
+                <g id="Group-15" transform="translate(100.000000, 77.000000)">
+                    <g id="Group-33" transform="translate(25.000000, 77.000000)">
+                        <g id="icons/linked-grey" transform="translate(92.573964, 1.775148)">
+                            <g id="icons/linked" transform="translate(0.750000, 0.000000)">
+                                <g id="Group-33">
+                                    <circle id="Oval-402" stroke="#C8C8C8" stroke-width="3" cx="14.5" cy="5.49693733" r="4.5"></circle>
+                                    <circle id="Oval-402" stroke="#C8C8C8" stroke-width="3" cx="4.5" cy="14.4969373" r="4.5"></circle>
+                                    <g id="Line">
+                                        <use fill="#C8C8C8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                        <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

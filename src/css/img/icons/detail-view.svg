@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/detail-view</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="35" height="35"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35" height="35" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/detail-view">
+            <g id="Group-5">
+                <g id="Group-8">
+                    <rect id="Rectangle-600" fill="#BEBFC0" x="7.77777778" y="7.77777778" width="7.77777778" height="7.77777778"></rect>
+                    <use id="Rectangle-600" stroke="#BEBFC0" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-600" fill="#BEBFC0" x="19.4444444" y="7.77777778" width="7.77777778" height="7.77777778"></rect>
+                    <rect id="Rectangle-600" fill="#BEBFC0" x="19.4444444" y="19.4444444" width="7.77777778" height="7.77777778"></rect>
+                    <rect id="Rectangle-600" fill="#BEBFC0" x="7.77777778" y="19.4444444" width="7.77777778" height="7.77777778"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

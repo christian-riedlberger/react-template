@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="5px" viewBox="0 0 127 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Line 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="6.39037312%" y1="6.94843356%" x2="87.7356751%" y2="6.94843356%" id="linearGradient-1">
+            <stop stop-color="#69E1A5" offset="0%"></stop>
+            <stop stop-color="#F8D681" offset="48.6497471%"></stop>
+            <stop stop-color="#FEA1A1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Dashboard-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-259.000000, -414.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="form">
+                <g id="Group-5" transform="translate(97.000000, 353.000000)">
+                    <g id="Group-4" transform="translate(0.000000, 61.000000)">
+                        <g id="Group-3" transform="translate(165.000000, 0.000000)">
+                            <polygon id="Line-11" points="-2.04511278 5 -2.04511278 0 123.045113 0 123.045113 5"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

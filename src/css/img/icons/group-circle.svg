@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/group-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10.8870968" cy="7.79032258" r="3.17741935"></circle>
+    </defs>
+    <g id="ExamBuilder---User-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Tab-&gt;-Search" transform="translate(-776.000000, -618.000000)">
+            <g id="Group-6" transform="translate(744.000000, 616.000000)">
+                <g id="Group-12" transform="translate(1.000000, 0.000000)">
+                    <g id="icons/group-circle" transform="translate(31.000000, 2.000000)">
+                        <g transform="translate(0.500000, 0.000000)">
+                            <path d="M15.8449948,14.8950686 L15.8449948,13.1836583 C15.8449948,10.4650381 10.9224974,8.90322581 10.9224974,8.90322581 C10.9224974,8.90322581 6,10.4650381 6,13.1836583 L6,14.8950686 L15.8449948,14.8950686 Z" id="Oval-5" fill="#4E4E4E"></path>
+                            <g id="Oval-5">
+                                <use fill="#4E4E4E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <circle stroke="#FFFFFF" stroke-width="1" cx="10.8870968" cy="7.79032258" r="2.67741935"></circle>
+                            </g>
+                            <ellipse id="Oval-6" stroke="#979797" stroke-width="1.5" cx="11" cy="11.44" rx="10.5" ry="10.56"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

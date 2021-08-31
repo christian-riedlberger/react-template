@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/people-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---User-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Tab-&gt;-Search" transform="translate(-145.000000, -89.000000)" stroke="#969696">
+            <g id="icons/people-grey" transform="translate(147.000000, 91.000000)">
+                <g>
+                    <path d="M29.0714286,33.4258499 L21.2938776,30.6937553 L20.6942739,28.2755183 C22.837338,27.1935125 25.6447036,24.7208357 25.6447036,19.7405248 C25.6447036,12.3570842 26.6730806,7.4 18.4460641,7.4 C10.2190476,7.4 10.2190476,12.3570842 10.2190476,19.7405248 C10.2190476,24.3757629 13.0561627,26.8388233 15.4226211,28.0302099 L14.9294417,30.6937552 L7.4,33.4258499" id="Combined-Shape" stroke-width="2"></path>
+                    <circle id="Oval-209" stroke-width="2.5" cx="18.5" cy="18.5" r="18.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/search-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="5.72076789" cy="5.5" rx="5.72076789" ry="5.5"></ellipse>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Builder-Search" transform="translate(-334.000000, -10.000000)">
+            <g id="Search">
+                <g id="Rectangle-53-Copy-+-search-icon-+-SEARCH" transform="translate(322.000000, 0.000000)">
+                    <g id="icons/search-grey" transform="translate(12.000000, 9.000000)">
+                        <g transform="translate(12.385324, 12.673129) rotate(-45.000000) translate(-12.385324, -12.673129) translate(6.385324, 1.673129)">
+                            <polygon id="Rectangle-80" fill="#888888" points="4.71122061 13.5882353 6.73031516 13.5882353 7.40334668 21.4205538 4.0381891 21.4205538"></polygon>
+                            <rect id="Rectangle-81" fill="#C2C2C2" x="4.71122061" y="11" width="2.01909455" height="2.58823529"></rect>
+                            <g id="Oval-14">
+                                <use fill="#F3F5F7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <ellipse stroke="#E8EFF8" stroke-width="1" cx="5.72076789" cy="5.5" rx="5.22076789" ry="5"></ellipse>
+                                <ellipse stroke="#888888" stroke-width="2" cx="5.72076789" cy="5.5" rx="6.72076789" ry="6.5"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

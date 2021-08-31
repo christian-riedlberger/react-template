@@ -1,0 +1,11 @@
+name: FieldFullscreenDatePicker
+type: Class
+
+defaultProps:
+    input:
+        change
+        touched
+        error
+    value
+
+medthods: handleSelect

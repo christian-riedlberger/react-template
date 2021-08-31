@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="21px" viewBox="0 0 23 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/revert-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Artboard" transform="translate(-1.000000, -3.000000)" stroke-width="2" stroke="#989898">
+            <g id="icons/revert-grey">
+                <path d="M10.8392955,5.21297016 C10.9896944,5.21297016 10.9009239,4.50855414 13.7510642,4.37155692 C18.4959392,4.60529925 22.2680743,8.5273494 22.2680743,13.3260522 C22.2680743,18.2750177 18.2560053,22.2915694 13.3025571,22.2915694 C8.34910879,22.2915694 4.33703982,18.2750177 4.33703982,13.3260522" id="Stroke-7484" stroke-linejoin="round" transform="translate(13.302557, 13.331563) rotate(-50.000000) translate(-13.302557, -13.331563) "></path>
+                <polygon id="Triangle" fill="#FFFFFF" stroke-linejoin="round" transform="translate(5.434287, 11.664650) rotate(194.000000) translate(-5.434287, -11.664650) " points="5.43428699 8.81964953 8.72928706 14.5096496 2.13928691 14.5096496"></polygon>
+                <path d="M13.4482759,8.51724138 L13.4482759,13.8965517" id="Line"></path>
+                <path d="M16.137931,16.137931 L13.4482759,13.8965517" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>

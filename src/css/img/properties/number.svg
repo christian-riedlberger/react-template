@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="13px" viewBox="0 0 29 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>number</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ExamBuilder---Collections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collections" transform="translate(-645.000000, -533.000000)">
+            <g id="number" transform="translate(646.000000, 534.000000)">
+                <polygon id="text-field-" stroke="#ACCDF2" fill="#DBECFB" stroke-linecap="round" stroke-linejoin="round" points="23 9 0 9 0 0 23 0"></polygon>
+                <text id="#" font-family="Raleway-SemiBold, Raleway" font-size="13" font-weight="500" fill="#64A3EE">
+                    <tspan x="19" y="12">#</tspan>
+                </text>
+                <rect id="Rectangle-691-Copy-5" fill="#ACCDF2" x="4" y="4" width="9" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

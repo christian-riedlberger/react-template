@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 45</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17.5" cy="17.5" r="17.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35" height="35" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Editor-S1---Question-Metadata" transform="translate(-1350.000000, -1144.000000)">
+            <g id="Group-42" transform="translate(845.000000, 1104.000000)">
+                <g id="Group-50">
+                    <g id="Group-45" transform="translate(505.000000, 40.000000)">
+                        <use id="Oval-164" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <path d="M4.25491319,31.3839526 L32.2587557,3.380111" id="Path-711" stroke="#353E43" stroke-width="2"></path>
+                        <path d="M3.9375,3.9375 L31.9375,31.9375" id="Path-711" stroke="#353E43" stroke-width="2"></path>
+                        <circle id="Oval-164" fill="#353E43" cx="17.5" cy="17.5" r="9.625"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,65 @@
+import React from 'react';
+import { modes } from '../constants';
+import Icon from '../Icon';
+import Vector from './Vector';
+import BezierEditor from '../editors/BezierEditor';
+
+export default class Path extends Vector {
+    static meta = {
+        initial: {
+            fill: '#e3e3e3',
+            closed: false,
+            rotate: 0,
+            moveX: 0,
+            moveY: 0,
+            path: [],
+            stroke: 'gray',
+            strokeWidth: 1
+        },
+        mode: modes.DRAW_PATH,
+        icon: <Icon icon="polygon" size={30} />,
+        board: BezierEditor
+    };
+
+    /*eslint-disable */
+    buildPath(object) {
+
+        const { path } = object;
+
+        const curves = path.map(({ x1, y1, x2, y2, x, y }, i) => (
+            `C ${ x1 } ${ y1 }, ${ x2 } ${ y2 }, ${ x } ${ y }`
+        ));
+
+        let instructions = [
+            `M ${ object.moveX } ${ object.moveY }`,
+            ...curves
+        ];
+
+        if (object.closed) {
+            instructions = [
+                ...instructions, 'Z'
+            ];
+        }
+
+        return instructions.join('\n');
+    }
+
+    getTransformMatrix({ rotate, x, y, moveX, moveY }) {
+        return (`
+            translate(${ x - moveX } ${ y - moveY })
+            rotate(${ rotate } ${ x } ${ y })
+        `);
+    }
+    /* eslint-enable */
+
+    render() {
+        const { object } = this.props;
+        const fill = (object.closed ? object.fill : 'transparent');
+        return (
+            <path style={this.getStyle(object)}
+                {...this.getObjectAttributes()}
+                d={this.buildPath(object)}
+                fill={fill} />
+        );
+    }
+}

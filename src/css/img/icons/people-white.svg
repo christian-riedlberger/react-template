@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/people-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation/sidebar" transform="translate(-25.000000, -379.000000)" stroke="#FFFFFF">
+            <g id="Group-82">
+                <g id="Group-81">
+                    <g id="icons/people-white" transform="translate(26.000000, 380.000000)">
+                        <g>
+                            <path d="M29.8571429,34.3292512 L21.8693878,31.5233162 L21.2535786,29.0397215 C23.4545633,27.9284723 26.3378037,25.3889664 26.3378037,20.2740525 C26.3378037,12.6910594 27.3939747,7.6 18.9446064,7.6 C10.4952381,7.6 10.4952381,12.6910594 10.4952381,20.2740525 C10.4952381,25.0345673 13.4090319,27.5641969 15.8394487,28.7877831 L15.3329402,31.5233162 L7.6,34.3292512" id="Combined-Shape"></path>
+                            <circle id="Oval-209" cx="19" cy="19" r="19"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

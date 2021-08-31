@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <circle id="Oval" fill="#FFCB1F" cx="36" cy="36" r="36"></circle>
+            <g id="Group" transform="translate(18.000000, 27.000000)" fill="#6B4400">
+                <ellipse id="Oval-2" cx="31" cy="7" rx="5" ry="7"></ellipse>
+                <ellipse id="Oval-2" cx="5" cy="7" rx="5" ry="7"></ellipse>
+            </g>
+            <path d="M24,57.1598558 C33.6731981,44.9467147 41.7469369,44.9467147 48.2212164,57.1598558 C48.5513409,57.7747234 48.335,57.6399453 47.6279497,58.0116937 C47.4807295,58.0890982 46.7345639,57.4574727 46.4944672,57.339497 C45.4459825,56.8243056 44.2825775,56.2021571 39.329925,55.8265891 C37.0813181,55.6560734 31.9713431,56.1004956 24,57.1598558 Z" id="Path-2" fill="#6B4400"></path>
+            <g id="Group-2" transform="translate(11.000000, 17.000000)" stroke-linecap="round" stroke-width="3" stroke="#6B4400" stroke-linejoin="round">
+                <g id="Group-3">
+                    <path d="M34.5,0.5 C37.7465873,0.338311141 40.5616812,0.964555593 42.9452819,2.37873336 C45.3288825,3.79291112 47.5137886,5.83333333 49.5,8.5" id="Line-2"></path>
+                    <path d="M0.5,0.5 C3.74658725,0.338311141 6.5616812,0.964555593 8.94528185,2.37873336 C11.3288825,3.79291112 13.5137886,5.83333333 15.5,8.5" id="Line-2" transform="translate(8.000000, 4.487558) scale(-1, 1) translate(-8.000000, -4.487558) "></path>
+                </g>
+            </g>
+            <path d="M23.5,71.8691163 C28.7467051,71.8691163 33,67.6158214 33,62.3691163 C33,57.1224111 26.2969995,42.2252228 23.5,42.0024017 C20.7030005,41.7795807 14,57.1224111 14,62.3691163 C14,67.6158214 18.2532949,71.8691163 23.5,71.8691163 Z" id="Oval-3" fill="#4AAFEA"></path>
+        </g>
+    </g>
+</svg>

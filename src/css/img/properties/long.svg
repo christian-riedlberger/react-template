@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>long</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="17.7122847 12.6597357 0 12.6597357 0 0.206890724 17.7122847 0.206890724"></polygon>
+    </defs>
+    <g id="ExamBuilder---Collections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collections" transform="translate(-475.000000, -598.000000)">
+            <g id="long" transform="translate(476.000000, 599.000000)">
+                <g id="Group-8" transform="translate(0.000000, 3.459124)">
+                    <g id="Stroke-2720">
+                        <use fill="#DBECFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#64A3EE" stroke-width="1" d="M18.2122847,13.1597357 L-0.5,13.1597357 L-0.5,-0.293109276 L18.2122847,-0.293109276 L18.2122847,13.1597357 Z"></path>
+                    </g>
+                    <path d="M17.7122847,7.61007196 L17.7122847,7.61007196 L18.4207761,6.91824723 L18.4207761,6.91824723 L18.4207761,7.61007196 L13.4613364,13.1446697 L12.752845,13.1446697 L12.752845,13.1446697 L13.4613364,12.452845 L18.4207761,12.452845 L17.7122847,13.1446697 L17.7122847,7.61007196 Z M18.4207761,6.91824723 L18.4207761,13.1446697 L12.752845,13.1446697 L18.4207761,6.91824723 L18.4207761,6.91824723 Z" id="Shape" fill="#65A3EE" fill-rule="nonzero"></path>
+                </g>
+                <rect id="Rectangle-691" fill="#ACCDF2" x="2.12547417" y="12.6597357" width="12.752845" height="1"></rect>
+                <rect id="Rectangle-691-Copy-3" fill="#ACCDF2" x="2.12547417" y="10.5842616" width="12.752845" height="1"></rect>
+                <rect id="Rectangle-691-Copy-4" fill="#ACCDF2" x="2.12547417" y="8.5087874" width="12.752845" height="1"></rect>
+                <rect id="Rectangle-691-Copy-5" fill="#ACCDF2" x="2.12547417" y="6.43331323" width="12.752845" height="1"></rect>
+                <g id="Group-2" transform="translate(14.878319, 0.000000)" stroke-linecap="round" stroke="#64A3EE" stroke-linejoin="round">
+                    <g id="cursor">
+                        <path d="M3.18821125,2.42138653 L3.18821125,6.22642251" id="Stroke-44"></path>
+                        <path d="M0.354245695,0.345912362 C1.91930318,0.345912362 3.18821125,1.58497044 3.18821125,3.11321125 C3.18821125,1.58497044 4.45711933,0.345912362 6.02217681,0.345912362" id="Stroke-46"></path>
+                        <path d="M0.354245695,8.9937214 C1.91930318,8.9937214 3.18821125,7.7567388 3.18821125,6.22642251 C3.18821125,7.7567388 4.45711933,8.9937214 6.02217681,8.9937214" id="Stroke-48"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

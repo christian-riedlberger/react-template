@@ -1,0 +1,84 @@
+$invalid-field: #ed645c;
+
+.error-page {
+    margin: 0 auto;
+    width: 500px;
+    height: 100vh;
+    background: #333e42;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: -250px;
+    height: 500px;
+    padding: 4em;
+
+    h1 {
+        color: #fff;
+    }
+
+    .error-box {
+        font-size: 1.5em;
+        line-height: 1.2em;
+        margin-top: 2em;
+        margin-bottom: 0;
+        padding: 1em 1.4em;
+        white-space: pre-line;
+    }
+}
+
+.error-box {
+    text-align: left;
+    background: #ef6a63;
+    padding: 0.6em 1em;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 2em;
+    margin-top: -1em;
+
+    //Reset
+    ul,
+    li {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    ul {
+        li {
+            font-size: 1em;
+            margin-bottom: 0.5em;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+.pane {
+    .error-box {
+        margin-top: 0;
+    }
+}
+.invalid-input-group {
+    .invalid-field {
+        border: 1px solid $invalid-field !important;
+    }
+    .validation-message {
+        background: $invalid-field;
+        display: flex;
+        justify-content: flex-end;
+        padding: 0px 10px 0px 0px;
+        margin-top: -2px;
+        font-size: 12px;
+        font-weight: 600;
+        color: #fff;
+    }
+}
+/**
+*   Common text error styling
+*/
+input[type='text'].error {
+    border: 1px solid #f58d8d;
+    background: #fdecec;
+}

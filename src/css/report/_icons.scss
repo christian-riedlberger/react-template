@@ -1,0 +1,39 @@
+/*************************************************************
+*   ICONS | .ico-x
+*/
+span[class^='ico-'],
+span[class*=' ico-'] {
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+}
+
+span.ico-item-color-round {
+    @include icon('img/report/icons/item-round-color.svg', 100%);
+}
+
+span.ico-location-color-round {
+    @include icon('img/report/icons/location-round-color.svg', 100%);
+}
+
+span.ico-subject-color-round {
+    @include icon('img/report/icons/subject-round-color.svg', 100%);
+}
+
+span.ico-chevron-down {
+    @include icon('img/report/icons/chevron-down.svg', 100%);
+}
+
+span.ico-chevron-down-active {
+    @include icon('img/report/icons/chevron-down-active.svg', 100%);
+}
+
+span.ico-bell {
+    @include icon('img/report/icons/bell.svg', 100%);
+}
+
+span.ico-bell-active {
+    @include icon('img/report/icons/bell-active.svg', 100%);
+}
